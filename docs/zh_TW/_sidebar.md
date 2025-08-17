@@ -8,7 +8,7 @@
   - [買車](zh_TW/car-purchase.md)
   - [汽車保險](zh_TW/auto-insurance.md)
 - 金融
-  - [銀行帳戶]()
-  - [信用分數]()
-  - [退休帳戶]()
-  - [匯款]()
+  - [銀行帳戶](zh_TW/bank.md)
+  - [信用分數](zh_TW/credit.md)
+  - [退休帳戶](zh_TW/retire.md)
+  - [匯款](zh_TW/money-transfer.md)
