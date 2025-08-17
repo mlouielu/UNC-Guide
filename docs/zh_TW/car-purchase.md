@@ -28,6 +28,7 @@
 這是一個好的 Window Sticker，因為車價組成只有 MSRP 以及運送費 (Destination Fee)，在附加物品 (Individual Options) 上為 0 元，讚。
 
 [Mazda 2025 CX5 2.5 S](/assets/mazda-cx5-2025-window-sticker.pdf)
+
 ```
 2025 CX5 2.5 S
 VIN: JM3KFBAL7S0719834
@@ -41,9 +42,25 @@ Individual Options:
 Total MSRP:	$ 30,265*
 ```
 
+這是一個還能接受的 Window Sticker，沒有太多廢物附加品，All-Weather Floor Liners 跟 Cargo Tray 算是有用的附加品。
+
+[Subaru 2025 Crosstrek Base](/assets/subaru-crosstrek-2025-window-sticker.pdf)
+
+```
+Manufacturer's Suggested Retail Price $26,560.00
+Exterior Color: Crystal Black Silica
+Full Tank of Gas INCLD
+Standard Option: 03
+All-Weather Floor Liners $176.00
+Cargo Tray $145.00
+Destination and Delivery $1,420.00
+
+Total Suggested Retail Price $28,301.00
+```
+
 #### 👎🙃🙄 爛透的 Window Sticker
 
-這是一個爛透的 Window Sticker，在車價組成上除了 MSRP 以及運送費外，還附帶總價 $1804 元的垃圾。通常這些垃圾是無法議價的，車商會跟你說這些已經裝設在車上，沒有辦法拿掉。
+這是一個爛透的 Window Sticker，在車價組成上除了 MSRP 以及運送費外，還附帶總價 $1804 元的垃圾。通常這些垃圾是無法議價的，車商會跟你說[O這些已經裝設在車上，沒有辦法拿掉。
 
 [Toyota 2025 Corolla SE](/assets/toyota-corolla-se-2025-window-sticker.pdf)
 
@@ -66,19 +83,80 @@ Total Distributor's Options $1804.00
 Total MSRP: $27,729.00
 ```
 
-
 ### 寄信問 Out the Door Price (OTD Price)
 
+看好沒有太多垃圾的車後，透過你的新 Email 寄信去問 Out the Door Price (OTD Price)。
+
+#### 什麼是 OTD Price
+
+通常車價組成是這樣:
+
+| Item | Cost |
+|------|------|
+| MSRP | $26500 |
+| Option 1| $200 |
+| Option 2| $100 |
+| Destination Fee| $2000|
+| Taxes | $1000 |
+| DMV Fees | $150 |
+| Doc Fee | $900 |
+
+**OTD Price 就是把這些費用全部包含進來的費用**。
+
+當你走出 Finance Office 的時候，應該就是要只付出這個價錢。
+
+#### 如何問 OTD Price
+
+不用廢話，直接問就好。
+
+```
+Hi there,
+
+I would like to know the availability and OTD price of Mazda 2025 CX-5 Select (VIN: OOOOOOOOOOOOOOO).
+
+Thanks,
+<your name>
+```
+
+信寄出後，預期要拿到一張報價單。
+
+
+#### 沒有拿到報價單?
+
+如果沒有再幾封信裡面拿到報價單，或是對方希望你到現場去看車的話
+，請直接無視對方，掉頭就走。
+
+記得，沒有提供報價單的車商，沒有到現場的必要。
 
 ### 如何看報價單
 
 ### 準備汽車保險
 
+請看 [汽車保險](zh_tw/auto-insurance.md)。
+
+汽車保險可以到現場確定車價後再現場線上購買。
+
 ### 到現場買車
 
 ### 進入 Finance Office 時
 
+!> TL;DR 目標是 OTD Price 離開，忽略各種 Warranty Package
+
+
+這個步驟，Finance Manager 會開始推銷各種 Warranty Package, Paint Protection, Tire Protection 方案，請全部 Decline，全部忽略。不要買不要買不要買。目標是出門的時候只付出 OTD Price。
+
+
 ### 牽車
+
+
+#### 有駕照
+
+如果車子在現場，就能直接開走。如果不在現場，就改天來牽車。
+
+#### 沒駕照
+
+找個有駕照的朋友，請他幫忙開回去。
+
 
 買二手車
 ------
