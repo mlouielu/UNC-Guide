@@ -1,4 +1,7 @@
 - [首頁](zh_TW/)
+- 🪪 Onyen 帳號
+  - [建立 Onyen 帳號](zh_TW/onyen/create-onyen.md)
+  - [設定 email](zh_TW/onyen/setup-email.md)
 - 🎓 學術相關 (Academic)
   - [課程註冊](zh_TW/academic/course-registration.md)
   - [學位要求](zh_TW/academic/degree-requirements.md)
@@ -28,7 +31,6 @@
   - [語言資源](zh_TW/international/language-resources.md)
   - [國際學生服務處](zh_TW/international/isso.md)
   - [稅務指南](zh_TW/international/tax-guide.md)
-
 - 💻 科技資源 (Technology)
   - [校園 IT 服務](zh_TW/tech/it-services.md)
   - [WiFi 設定](zh_TW/tech/wifi-setup.md)
@@ -47,7 +49,6 @@
   - [買車指南](zh_TW/transport/car-purchase.md)
   - [汽車保險](zh_TW/transport/auto-insurance.md)
   - [公車系統](zh_TW/transport/buses.md)
-  - [共享單車](zh_TW/transport/bike-share.md)
   - [Uber/Lyft](zh_TW/transport/rideshare.md)
 - 💰 金融理財 (Financial)
   - [銀行開戶](zh_TW/finance/bank-account.md)
