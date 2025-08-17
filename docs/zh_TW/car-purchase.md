@@ -21,7 +21,11 @@
 
 ### 查看 Window Sticker
 
+[Window Sticker](https://en.wikipedia.org/wiki/Monroney_sticker) 是聯邦法規要求新車販售時必須提供的所有資訊。在查看 Window Sticker 時，我們主要看車商有沒有在售價上加上不必要的附加物品或服務。
+
 #### 👍👍👍 好的 Window Sticker
+
+這是一個好的 Window Sticker，因為車價組成只有 MSRP 以及運送費 (Destination Fee)，在附加物品 (Individual Options) 上為 0 元，讚。
 
 [Mazda 2025 CX5 2.5 S](/assets/mazda-cx5-2025-window-sticker.pdf)
 ```
@@ -38,6 +42,8 @@ Total MSRP:	$ 30,265*
 ```
 
 #### 👎🙃🙄 爛透的 Window Sticker
+
+這是一個爛透的 Window Sticker，在車價組成上除了 MSRP 以及運送費外，還附帶總價 $1804 元的垃圾。通常這些垃圾是無法議價的，車商會跟你說這些已經裝設在車上，沒有辦法拿掉。
 
 [Toyota 2025 Corolla SE](/assets/toyota-corolla-se-2025-window-sticker.pdf)
 
