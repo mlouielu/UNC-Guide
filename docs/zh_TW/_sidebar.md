@@ -2,6 +2,7 @@
 - 🪪 Onyen 帳號
   - [建立 Onyen 帳號](zh_TW/onyen/create-onyen.md)
   - [設定 email](zh_TW/onyen/setup-email.md)
+  - [設定 Alert Carolina](zh_TW/onyen/setup-alert-carolina.md)
 - 🎓 學術相關 (Academic)
   - [課程註冊](zh_TW/academic/course-registration.md)
   - [學位要求](zh_TW/academic/degree-requirements.md)
