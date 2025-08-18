@@ -21,9 +21,9 @@
   - [學生證明](zh_TW/academic/student-record.md)
 - 🏗️  內容施工中🏗️
 - 💰 金融理財 (Financial)
-  - [銀行開戶](zh_TW/finance/bank-account.md)
-  - [信用分數](zh_TW/finance/credit-score.md)
-  - [退休帳戶](zh_TW/finance/retirement.md)
+  - [銀行開戶](zh_TW/finance/bank.md)
+  - [信用分數](zh_TW/finance/credit.md)
+  - [退休帳戶](zh_TW/finance/retire.md)
   - [國際匯款](zh_TW/finance/money-transfer.md)
 - 🏫 校園生活 (Campus Life)
   - [宿舍住宿](zh_TW/campus/housing.md)
