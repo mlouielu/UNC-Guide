@@ -19,12 +19,12 @@
   - [學期行事曆](zh_TW/resources/semester-calendar.md)
   - [課程註冊/選課](zh_TW/academic/course-registration.md)
   - [學生證明](zh_TW/academic/student-record.md)
-- 🏗️  內容施工中🏗️
 - 💰 金融理財 (Financial)
   - [銀行開戶](zh_TW/finance/bank.md)
   - [信用分數](zh_TW/finance/credit.md)
   - [退休帳戶](zh_TW/finance/retire.md)
   - [國際匯款](zh_TW/finance/money-transfer.md)
+- 🏗️  內容施工中🏗️
 - 🏫 校園生活 (Campus Life)
   - [宿舍住宿](zh_TW/campus/housing.md)
   - [餐飲計畫](zh_TW/campus/dining-plans.md)
