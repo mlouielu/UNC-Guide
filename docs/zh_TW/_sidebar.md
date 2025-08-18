@@ -22,7 +22,7 @@
   - [國際匯款](zh_TW/finance/money-transfer.md)
 - 🎓 學術相關 (Academic)
   - [學期行事曆](zh_TW/resources/semester-calendar.md)
-  - [課程註冊](zh_TW/academic/course-registration.md)
+  - [課程註冊/選課](zh_TW/academic/course-registration.md)
   - [學生證明](zh_TW/academic/student-record.md)
 - 🏗️  內容施工中🏗️
 - 🏫 校園生活 (Campus Life)
