@@ -27,7 +27,7 @@
 
 這是一個好的 Window Sticker，因為車價組成只有 MSRP 以及運送費 (Destination Fee)，在附加物品 (Individual Options) 上為 0 元，讚。
 
-[Mazda 2025 CX5 2.5 S](/assets/mazda-cx5-2025-window-sticker.pdf ':ignore')
+
 
 ```
 2025 CX5 2.5 S
@@ -130,29 +130,7 @@ Thanks,
 
 ### 如何看報價單
 
-#### 報價單一號
-
-![quote-1](../../assets/how-does-this-quote-look.webp)
-
-*From: https://www.reddit.com/r/whatcarshouldIbuy/comments/18zyqb5/how_does_this_quote_look/*
-
-- Balance: $42435.38，OTD Price
-- Appearance Pack: $695 這是車子本身外觀顏色的加價
-- Freight: $1325 Destination Fee 的另一種寫法
-- Discount: $1350 這是減價優惠的部份
-- Adjusted Price: MSRP - Discount = Adj Price
-- Dealer Processing Charge: 車商的手續費
-- Tax: 稅
-- Registration: DMV 相關費用
-
-
-#### 報價單二號
-
-![quote-2](../../assets/quote-2.webp ':size=360x')
-
-*From: https://www.reddit.com/r/whatcarshouldIbuy/comments/xcrynj/2022_toyota_corolla_hybrid_this_seems_expensive/*
-
-- **ADD'L DEALER PROFIT**: $2500，車商加價賣
+![quote-1](/assets/how-does-this-quote-look.png)
 
 ### 準備汽車保險
 
