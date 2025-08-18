@@ -1,2 +1,14 @@
 銀行帳戶
 ========
+
+Bank of America
+---------------
+
+### Pros
+
+* 最簡單可以辦的(要求文件最少)，ESTA/B1/B2/F1/F2/J1/J2...都能辦。
+* 如果可以存放滿足 [Preferred Rewards](https://promotions.bankofamerica.com/preferredrewards/en) 的錢，可以 waive fee + 信用卡回饋增加。
+
+### Cons
+
+* 一堆手續費，International Incoming Wire 要錢，cashier's check 要錢 = =
