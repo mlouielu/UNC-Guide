@@ -26,7 +26,7 @@
 
 請參考 [Your Grades - Viewing Your Grades](https://registrar.unc.edu/your-grades/)
 
-### 申請成績證明
+### 申請成績證明/成績單
 
 請參考 [Order a Transcript](https://registrar.unc.edu/order-a-transcript/)
 

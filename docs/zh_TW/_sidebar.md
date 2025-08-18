@@ -38,7 +38,6 @@
   - [學費繳納](zh_TW/admin/tuition-payment.md)
   - [經濟補助](zh_TW/admin/financial-aid.md)
   - [學生服務](zh_TW/admin/student-services.md)
-  - [成績單申請](zh_TW/admin/transcripts.md)
   - [畢業申請](zh_TW/admin/graduation.md)
 - 🌍 國際學生專區 (International Students)
   - [簽證資訊](zh_TW/international/visa-info.md)
