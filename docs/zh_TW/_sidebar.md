@@ -52,7 +52,7 @@
   - [學生入口網站](zh_TW/tech/student-portal.md)
   - [電子郵件設定](zh_TW/tech/email-setup.md)
   - [軟體下載](zh_TW/tech/software-downloads.md)
-  - [VPN 使用](zh_TW/tech/vpn-access.md)
+  - [VPN 連線](zh_TW/tech/vpn-access.md)
 - 🎯 職涯發展 (Career)
   - [實習機會](zh_TW/career/internships.md)
   - [職涯服務中心](zh_TW/career/career-services.md)
