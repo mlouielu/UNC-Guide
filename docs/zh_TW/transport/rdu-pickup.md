@@ -112,3 +112,26 @@
 * 國內線: 45 分鐘前關櫃
 
 例如，飛機表定 18:00 PM，則須於 17:15 PM 前至櫃台掛行李
+
+
+機場停車
+--------
+
+### 機場自營
+
+請參考 [RDU Parking](https://www.rdu.com/parking/)
+
+| Place | Hr | Day |
+| Premier | $8 | $32 |
+| Central | $5.25 | $21 |
+| Express | $4.25 | $17 |
+| Economy 3 | $3 | $12 |
+| Economy 4 | $3 | $12 |
+
+網路上先預約能夠有便宜一點的價格。預約須於 24 小時前預約。
+
+### 機場外
+
+請參考 [Fast Park](https://www.thefastpark.com/airport-parking/raleigh-durham-rdu)
+
+每日價格約 $13.5，比 Economy 3/4 高一些，但有專門接駁車，且接駁車會開到你停車位置接送你。
