@@ -1,3 +1,8 @@
+---
+title: Car Purchase Guide - UNC Guide
+description: Practical steps for finding inventory, reading window stickers, requesting out‑the‑door quotes, and avoiding unnecessary add‑ons.
+---
+
 # Car Purchase Guide
 
 New cars
