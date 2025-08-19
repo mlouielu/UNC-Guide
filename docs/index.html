@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <title>Document</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content>
+  <meta name="keywords" content>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
@@ -19,12 +20,18 @@
       subMaxLevel: 3,
       loadNavbar: true,
       search: 'auto',
-
+      seo: {
+        description: (route, frontmatter) => {
+          if (route.path.startsWith('/zh_TW/')) return `一般的な説明`
+          else return `Some default description 1.`
+        },
+        keywords: `foo, bar, baz`,
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-
+  <script src="src/seo.js"></srcipt>
 </body>
 </html>
