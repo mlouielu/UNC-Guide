@@ -122,6 +122,7 @@
 請參考 [RDU Parking](https://www.rdu.com/parking/)
 
 | Place | Hr | Day |
+| -- | -- | -- |
 | Premier | $8 | $32 |
 | Central | $5.25 | $21 |
 | Express | $4.25 | $17 |
