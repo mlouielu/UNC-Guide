@@ -7,6 +7,7 @@
   - [手機號碼](zh_TW/daily/comm.md)
   - [網路服務](zh_TW/daily/broadband.md)
   - [租屋指南](zh_TW/daily/rental.md)
+  - [天災停電](zh_TW/daily/outage.md)
   - [購物指南](zh_TW/daily/shopping.md)
   - [生活必需品](zh_TW/daily/essentials.md)
 - 🚗 交通運輸 (Transportation)
