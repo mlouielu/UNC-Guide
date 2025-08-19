@@ -9,10 +9,11 @@
   * [Renting](daily/rental.md)
 * 🚗 Transportation
   * [RDU Pickup/Drop-off](transport/rdu-pickup.md)
-  * [Car Purchase Guide](transport/car-purchase.md)
-  * [Auto Insurance](transport/auto-insurance.md)
-  * [Auto Maintenance](transport/auto-maintenance.md)
   * [Buses](transport/buses.md)
+* 🚗 Vehicle
+  * [Car Purchase Guide](vehicle/car-purchase.md)
+  * [Auto Insurance](vehicle/auto-insurance.md)
+  * [Auto Maintenance](vehicle/auto-maintenance.md)
 * 💰 Financial
   * [Bank Accounts](finance/bank.md)
   * [Credit Basics](finance/credit.md)
