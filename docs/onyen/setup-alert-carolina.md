@@ -9,3 +9,5 @@ Note: See how to get a US number: Daily → [Mobile Number](daily/comm.md)
 
 1. Visit Onyen Services — https://its.unc.edu/onyen-services/
 2. Choose “Register or Update Alert Carolina Number”
+
+Related: See [Campus Safety Resources](../campus/safety.md) for reporting options and safety tips.

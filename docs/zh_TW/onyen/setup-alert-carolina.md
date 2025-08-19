@@ -11,3 +11,5 @@
 
 1. 到 [Onyen Service](https://its.unc.edu/onyen-services/)
 1. 選擇 **Register or Update Alert Carolina Number**
+
+相關：請見 [校園安全資源](zh_TW/campus/safety.md)（通報方式與安全提醒）。

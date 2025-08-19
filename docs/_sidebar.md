@@ -27,3 +27,5 @@
   * [Graduation](admin/graduation.md)
 * 📅 Resources
   * [Semester Calendar](resources/semester-calendar.md)
+* 🏫 Campus
+  * [Safety](campus/safety.md)
