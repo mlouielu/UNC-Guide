@@ -8,6 +8,10 @@
 
 如果你的手機有 eSIM，要取得美國手機門號的方式就會變得比較簡單。
 
+請參考 [Cell Phone Plan Comparison Chart](https://airtable.com/appQ7TstG5Wn17FjY/shrraH105YVJQF2Yr/tblE1phJr6I27XBGE/viwJOh8hODbaFjcMZ)
+
+選擇哪個供應商主要取決於價格跟你經常出沒的地方，每個供應商在不同地方的覆蓋以及速度都不相同，無法一概而論。
+
 
 保留手機號碼
 ------------
