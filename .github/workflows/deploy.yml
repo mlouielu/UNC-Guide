@@ -3,6 +3,8 @@ name: Deploy VitePress
 on:
   push:
     branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 permissions:
   contents: write
@@ -16,9 +18,24 @@ jobs:
         with:
           node-version: 20
       - run: npm ci || npm i
-      - run: npm run docs:build
+      - name: Compute base path and destination
+        run: |
+          REPO_NAME="${GITHUB_REPOSITORY#*/}"
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "BASE=/$REPO_NAME/pr-${{ github.event.number }}/" >> $GITHUB_ENV
+            echo "DEST_DIR=pr-${{ github.event.number }}" >> $GITHUB_ENV
+          else
+            echo "BASE=/$REPO_NAME/" >> $GITHUB_ENV
+            echo "DEST_DIR=." >> $GITHUB_ENV
+          fi
+      - name: Build site
+        run: npm run docs:build
+        env:
+          BASE: ${{ env.BASE }}
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/.vitepress/dist
+          destination_dir: ${{ env.DEST_DIR }}
+          enable_jekyll: false

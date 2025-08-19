@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: process.env.BASE || '/',
   title: 'UNC Guide',
   description: 'A practical guide to life at UNC–Chapel Hill',
   cleanUrls: true,
@@ -91,4 +92,3 @@ export default defineConfig({
     footer: { message: 'Clear BSD License' }
   }
 })
-
