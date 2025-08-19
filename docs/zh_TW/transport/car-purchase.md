@@ -185,8 +185,27 @@ Thanks,
 買二手車
 ------
 
-### Pre-Purchase Inspection
+### 車輛產權證明類型 (Type of Vehicle Titles)
+
+#### Clean Title / Normal Title / North Carolina Title
+
+#### Salvage Title / Rebuilt Title
+
+#### Unregisterable Title
+
+
+### Pre-Purchase Inspection (PPI)
+
+買二手車的時候，記得要做 Pre-Purchase Inspection，找一個信任的車行做檢查。可以當作議價的手段。
+
+通常會問賣家可不可以做 PPI，並且約定一個雙方可以接受的方式來做 PPI (e.g. 對方將車子開到某車行做 PPI，由你在現場等並且付費)。如果賣家不接受 PPI，請轉頭就走。
 
 ### 個人買賣
 
 ### Carmax/Carvana
+
+
+Reference
+---------
+
+* https://connect.ncdot.gov/business/dmv/dmv%20documents/nc%20title%20manual.pdf
