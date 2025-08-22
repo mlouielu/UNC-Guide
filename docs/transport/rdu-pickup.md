@@ -64,8 +64,8 @@ Drop‑off
 
 ### No checked bags and no counter stop
 
-* International: be at the gate area before door close (typically 10 min prior)
-* Domestic: similar — at the gate 10 min before departure
+* International: be at the gate area before door close (typically 15 min prior)
+* Domestic: similar — at the gate 15 min before departure
 
 Example: 10:00 AM departure ⇒ be at gate by 9:50 AM.
 
