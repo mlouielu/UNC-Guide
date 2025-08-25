@@ -1,7 +1,11 @@
 銀行帳戶
 ========
 
-!> 不要啟用 Overdraft Protection，關掉它。
+:::danger
+
+不要啟用 Overdraft Protection，關掉它。
+
+:::
 
 Bank of America
 ---------------
