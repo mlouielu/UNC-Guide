@@ -6,7 +6,7 @@
 什麼時候開始選課
 ----------------
 
-請參考[學期行事曆](zh_TW/resources/semester-calendar)，其中會寫到:
+請參考[學期行事曆](../resources/semester-calendar)，其中會寫到:
 
 | Date | Event | Link |
 | -----|-------|------|

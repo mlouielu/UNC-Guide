@@ -45,7 +45,7 @@
 校園與緊急通知
 --------------
 
-* Alert Carolina：註冊並更新手機號碼，以接收校園緊急通知（天災、路況、停電等）。參考：[設定 Alert Carolina](zh_TW/onyen/setup-alert-carolina.md)
+* Alert Carolina：註冊並更新手機號碼，以接收校園緊急通知（天災、路況、停電等）。參考：[設定 Alert Carolina](../onyen/setup-alert-carolina.md)
 * 營運調整：停電時部分校舍可能關閉或調整服務，出門前先看公告與營業時間。
 
 網路備援與通訊

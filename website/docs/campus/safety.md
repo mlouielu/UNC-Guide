@@ -54,4 +54,4 @@ Clery Act Compliance Coordinator：Ronette Sutton — rsutton@unc.edu。更多�
 相關
 ----
 
-* 參考：[設定 Alert Carolina](zh_TW/onyen/setup-alert-carolina.md)
+* 參考：[設定 Alert Carolina](../onyen/setup-alert-carolina.md)
