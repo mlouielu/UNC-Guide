@@ -240,10 +240,16 @@ Protection 或服務 (e.g. 4 年內無限次換機油但要 upfront $1000 之類
 
 #### Clean Title / Normal Title / North Carolina Title
 
+OK
+
 #### Salvage Title / Rebuilt Title
+
+看到就跑，通常出現在 Facebook Marketplace，如果低於市價很多就有可能是
+Salvage Title. 難脫手。
 
 #### Unregisterable Title
 
+看到就跑
 
 ### Pre-Purchase Inspection (PPI)
 
@@ -253,10 +259,26 @@ Protection 或服務 (e.g. 4 年內無限次換機油但要 upfront $1000 之類
 
 ### 個人買賣
 
+* 畢業朋友/朋友的朋友
+* Facebook Marketplace
+* Craigslist
+
 ### Carmax/Carvana
+
+* 到現場看車
+* 網路送到家
+
+
+### 交易流程
+
+賣家最低需要低需要:
+
+1. 在 Title 背面公證簽名
+1. 拔掉 License 寄回 DMV
+
 
 
 Reference
 ---------
 
-* https://connect.ncdot.gov/business/dmv/dmv%20documents/nc%20title%20manual.pdf
+* North Carolina Title Manual: https://connect.ncdot.gov/business/dmv/dmv%20documents/nc%20title%20manual.pdf
