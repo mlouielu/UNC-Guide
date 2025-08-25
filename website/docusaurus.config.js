@@ -53,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mlouielu/UNC-Guide/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/mlouielu/UNC-Guide/tree/main/website',
         },
 		blog: false,
         theme: {
@@ -95,6 +95,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          {
+            title: 'UNC Guide',
+            items: [
+              {
+                label: 'Guide',
+                to: '/',
+              },
+            ],
+          },
           {
             title: 'UNC-CH Taiwanese Student Association',
             items: [
