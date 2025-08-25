@@ -1,10 +1,10 @@
 export default {
   mySidebar: [
-    // {
-    //   type: 'doc',
-    //   id: 'index',
-    //   label: '首頁'
-    // },
+    {
+       type: 'doc',
+       id: 'intro',
+       label: '首頁'
+    },
     {
       type: 'category',
       label: '🪪 Onyen 帳號',
