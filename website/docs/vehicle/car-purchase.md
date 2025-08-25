@@ -1,6 +1,7 @@
 ---
 title: 買車指南
 descripiton: 買車指南
+image: ../../static/img/do_not_pay_more_than_otd_price.png
 ---
 
 買車
@@ -103,6 +104,12 @@ Total Suggested Retail Price $28,301.00
 
 這是一個爛透的 Window Sticker，在車價組成上除了 MSRP 以及運送費外，還附帶總價 $1804 元的垃圾。通常這些垃圾是無法議價的，車商會跟你說這些已經裝設在車上，沒有辦法拿掉。
 
+:::info
+
+通常都是 Toyota 或是 Honda 會做這種事情。
+
+:::
+
 [Toyota 2025 Corolla SE](../../static/assets/toyota-corolla-se-2025-window-sticker.pdf)
 
 ```
@@ -171,7 +178,20 @@ Thanks,
 
 ### 如何看報價單
 
+:::info
+
+預期 OTD price 應該要小於等於 MSRP
+
+:::
+
 #### 報價單一號
+
+
+:::note
+
+這是一份正常的報價單
+
+:::
 
 ![quote-1](../../static/assets/how-does-this-quote-look.webp)
 
@@ -186,8 +206,13 @@ Thanks,
 - Tax: 稅
 - Registration: DMV 相關費用
 
-
 #### 報價單二號
+
+:::warning
+
+這是一份爛透的報價單
+
+:::
 
 ![quote-2](../../static/assets/quote-2.webp ':size=360x')
 
@@ -202,6 +227,16 @@ Thanks,
 汽車保險可以到現場確定車價後再現場線上購買。
 
 ### 到現場買車
+
+當你拿到報價單，並且確認就是要買這一台的時候，就可以起身到現場去買車了。手上記得帶著這張報價單，並且記得下面這件事情：
+
+:::warning
+
+![一毛錢都不能超過 OTD Price](../../static/img/do_not_pay_more_than_otd_price.png)
+
+當你跨出 Finance Office 拿到車子的時候，一毛錢都不能超過 OTD Price!!!
+
+:::
 
 ### 進入 Finance Office 時
 
