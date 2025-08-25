@@ -1,7 +1,7 @@
 ---
 title: 買車指南
 descripiton: 買車指南
-image: ../../static/img/do_not_pay_more_than_otd_price.png
+image: https://github.com/mlouielu/UNC-Guide/blob/main/website/static/img/do_not_pay_more_than_otd_price.png?raw=true
 ---
 
 買車
