@@ -13,6 +13,7 @@ const config = {
   title: '北卡生活指南',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
+  trailingSlash: false,
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
