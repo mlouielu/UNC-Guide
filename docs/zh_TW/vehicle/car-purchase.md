@@ -7,6 +7,26 @@
 1. 我想要什麼車型 (轎車? Hatchback? SUV? Pickup?)
 1. 我想要什麼車款
 
+
+如何選車?
+---------
+
+強烈的建議，先到 [IIHS](https://iihs.org/) 查看安全評價:
+
+* [IIHS Vehicle Ratings](https://www.iihs.org/ratings)
+* [IIHS Top Safety Picks](https://www.iihs.org/ratings/top-safety-picks)
+
+從這裡面選Top Safety Pick or Top Safety Pick+ 的車。
+
+
+Insurance Institute for Highway Safety (IIHS) 是美國非營利組織，他們會
+隨時的拿新車來做撞擊測試，並且由他們引領新的美國汽車安全標準。(新的測
+試=車商必須要製作符合新規則的車款)。
+
+* [Large SUVs struggle in IIHS tests - IIHS News](https://www.youtube.com/watch?v=E3S0Qf37b8s)
+
+安全的車子可以讓你在車禍中安然無恙的的走出來。
+
 買新車
 -----
 
