@@ -60,7 +60,34 @@ Q: 我需要 Comprehensive/Collision 嗎? (Other Than Collision, Collision)
 如果 Comprehensive 的保費低於車價 20 倍，那你就應該考慮保 Comprehensive。
 
 
-Q: 為什麼要保最低 100/300/100
+Q: 誰誰誰的保險一個月只要$50，為什麼我的需要$100/$200$/$500?
+------------------------------------------------------------
+
+汽車保險無法一概而論，價格受到許多因素影響，包括但不限於：
+
+1. 性別
+1. 年齡
+1. 駕駛年齡
+1. 駕駛紀錄 (DUI, At-fault, Speeding...etc)
+1. 你的居住地 (zipcode)
+1. 車型
+1. 車款
+1. 使用車子的方式 (Work, leisure, Uber/Lyft...etc)
+
+保額與保險範圍差異，例如:
+
+1. 50/100/50 v.s. 100/300/100
+1. Collision 與否
+
+以及保險公司的折扣，例如:
+
+1. Multi-vehicle discount
+1. Multi-insurance discount (e.g. rental+auto)
+
+
+因此每個人的保費之間非常難直接比較。
+
+Q: 為什麼最低建議要保 100/300/100
 -----------------------------
 
 考慮以下兩個情境:
