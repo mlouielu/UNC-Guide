@@ -70,7 +70,9 @@ In stock 的代表車子在現場，In Transit 代表車子已經離開工廠在
 
 ### 查看 Window Sticker
 
-[Window Sticker](https://en.wikipedia.org/wiki/Monroney_sticker) 是聯邦法規要求新車販售時必須提供的所有資訊。在查看 Window Sticker 時，我們主要看車商有沒有在售價上加上不必要的附加物品或服務。
+[Window Sticker](https://en.wikipedia.org/wiki/Monroney_sticker) 是聯邦法規要求新車販售時必須提供的所有資訊。在車商的網站上基本上都能查看到 Window Sticker。
+
+在查看 Window Sticker 時，我們主要看車商有沒有在售價上加上不必要的附加物品或服務，接著是看車型以及 VIN。
 
 #### 👍👍👍 好的 Window Sticker
 
