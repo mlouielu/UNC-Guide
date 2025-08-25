@@ -133,71 +133,66 @@ export default {
         }
       ]
     },
-    // {
-    //   type: 'html',
-    //   value: '🏗️ 內容施工中🏗️',
-    //   className: 'sidebar-construction'
-    // },
-    // {
-    //   type: 'category',
-    //   label: '🏫 校園生活 (Campus Life)',
-    //   items: [
-    //     {
-    //       type: 'doc',
-    //       id: 'campus/housing'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'campus/dining-plans'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'campus/student-organizations'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'campus/facilities'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'campus/recreation'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'campus/health-services'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'campus/safety'
-    //     }
-    //   ]
-    // },
-    // {
-    //   type: 'category',
-    //   label: '📋 行政流程 (Administrative)',
-    //   items: [
-    //     {
-    //       type: 'doc',
-    //       id: 'admin/enrollment'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'admin/tuition-payment'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'admin/financial-aid'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'admin/student-services'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'admin/graduation'
-    //     }
-    //   ]
-    // },
+    {
+      type: 'category',
+      label: '🏫 校園生活 (Campus Life)',
+      items: [
+        // {
+        //   type: 'doc',
+        //   id: 'campus/housing'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'campus/dining-plans'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'campus/student-organizations'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'campus/facilities'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'campus/recreation'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'campus/health-services'
+        // },
+        {
+          type: 'doc',
+          id: 'campus/safety'
+        }
+      ]
+    },
+    {
+      type: 'category',
+      label: '📋 行政流程 (Administrative)',
+      items: [
+        // {
+        //   type: 'doc',
+        //   id: 'admin/enrollment'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'admin/tuition-payment'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'admin/financial-aid'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'admin/student-services'
+        // },
+        {
+          type: 'doc',
+          id: 'admin/graduation'
+        }
+      ]
+    },
     // {
     //   type: 'category',
     //   label: '🌍 國際學生專區 (International Students)',
@@ -228,36 +223,36 @@ export default {
     //     }
     //   ]
     // },
-    // {
-    //   type: 'category',
-    //   label: '💻 科技資源 (Technology)',
-    //   items: [
-    //     {
-    //       type: 'doc',
-    //       id: 'tech/it-services'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'tech/wifi-setup'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'tech/student-portal'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'tech/email-setup'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'tech/software-downloads'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'tech/vpn-access'
-    //     }
-    //   ]
-    // },
+    {
+      type: 'category',
+      label: '💻 科技資源 (Technology)',
+      items: [
+        // {
+        //   type: 'doc',
+        //   id: 'tech/it-services'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'tech/wifi-setup'
+        // },
+        {
+          type: 'doc',
+          id: 'tech/student-portal'
+        },
+        {
+          type: 'doc',
+          id: 'tech/email-setup'
+        },
+        // {
+        //   type: 'doc',
+        //   id: 'tech/software-downloads'
+        // },
+        {
+          type: 'doc',
+          id: 'tech/vpn-access'
+        }
+      ]
+    },
     // {
     //   type: 'category',
     //   label: '🎯 職涯發展 (Career)',
@@ -288,36 +283,36 @@ export default {
     //     }
     //   ]
     // },
-    // {
-    //   type: 'category',
-    //   label: '🌟 資源與工具 (Resources & Tools)',
-    //   items: [
-    //     {
-    //       type: 'doc',
-    //       id: 'resources/emergency-contacts'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'resources/useful-websites'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'resources/recommended-apps'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'resources/faq'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'resources/new-student-checklist'
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'resources/semester-calendar'
-    //     }
-    //   ]
-    // },
+    {
+      type: 'category',
+      label: '🌟 資源與工具 (Resources & Tools)',
+      items: [
+        // {
+        //   type: 'doc',
+        //   id: 'resources/emergency-contacts'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'resources/useful-websites'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'resources/recommended-apps'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'resources/faq'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'resources/new-student-checklist'
+        // },
+        {
+          type: 'doc',
+          id: 'resources/semester-calendar'
+        }
+      ]
+    },
     // {
     //   type: 'category',
     //   label: '🏘️ 地區資訊 (Local Area)',
