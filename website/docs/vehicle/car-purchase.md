@@ -60,6 +60,13 @@ Insurance Institute for Highway Safety (IIHS) 是美國非營利組織，他們�
 
 ### 搜尋方圓 50 miles 的車商是否有想要的車款庫存
 
+透過車商的網站來搜尋附近是否有想要的車款。通常會有分兩種情況:
+
+1. In stock
+1. In Transit
+
+In stock 的代表車子在現場，In Transit 代表車子已經離開工廠在運往車商當中。建議以 In stock 的車子優先。
+
 
 ### 查看 Window Sticker
 
