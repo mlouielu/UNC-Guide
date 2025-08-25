@@ -34,6 +34,9 @@ Insurance Institute for Highway Safety (IIHS) 是美國非營利組織，他們�
 
 > 以下假設已經考慮好要買那一個車款
 
+
+買新車的目標價格是 [OTD Price](zh_TW/vehicle/car-purchase?id=什麼是-otd-price) <= MSRP。
+
 ### 註冊新的 email 帳號
 
 強烈建議使用新的一組 Email 將車子與車子保險相關的專門管理。
