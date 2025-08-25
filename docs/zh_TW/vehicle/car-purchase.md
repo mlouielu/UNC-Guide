@@ -162,7 +162,7 @@ Thanks,
 
 ### 準備汽車保險
 
-請看 [汽車保險](zh_tw/auto-insurance.md)。
+請看 [汽車保險](auto-insurance.md)。
 
 汽車保險可以到現場確定車價後再現場線上購買。
 
