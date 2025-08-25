@@ -53,7 +53,7 @@ Insurance Institute for Highway Safety (IIHS) 是美國非營利組織，他們�
 
 這是一個好的 Window Sticker，因為車價組成只有 MSRP 以及運送費 (Destination Fee)，在附加物品 (Individual Options) 上為 0 元，讚。
 
-[Mazda 2025 CX5 2.5 S](/assets/mazda-cx5-2025-window-sticker.pdf ':ignore')
+[Mazda 2025 CX5 2.5 S](assets/mazda-cx5-2025-window-sticker.pdf ':ignore')
 
 ```
 2025 CX5 2.5 S
@@ -70,7 +70,7 @@ Total MSRP:	$ 30,265*
 
 這是一個還能接受的 Window Sticker，沒有太多廢物附加品，All-Weather Floor Liners 跟 Cargo Tray 算是有用的附加品。
 
-[Subaru 2025 Crosstrek Base](/assets/subaru-crosstrek-2025-window-sticker.pdf ':ignore')
+[Subaru 2025 Crosstrek Base](assets/subaru-crosstrek-2025-window-sticker.pdf ':ignore')
 
 ```
 Manufacturer's Suggested Retail Price $26,560.00
@@ -88,7 +88,7 @@ Total Suggested Retail Price $28,301.00
 
 這是一個爛透的 Window Sticker，在車價組成上除了 MSRP 以及運送費外，還附帶總價 $1804 元的垃圾。通常這些垃圾是無法議價的，車商會跟你說[O這些已經裝設在車上，沒有辦法拿掉。
 
-[Toyota 2025 Corolla SE](/assets/toyota-corolla-se-2025-window-sticker.pdf ':ignore')
+[Toyota 2025 Corolla SE](assets/toyota-corolla-se-2025-window-sticker.pdf ':ignore')
 
 ```
 2025 Corolla SE
