@@ -173,7 +173,13 @@ Thanks,
 !> TL;DR 目標是 OTD Price 離開，忽略各種 Warranty Package
 
 
-這個步驟，Finance Manager 會開始推銷各種 Warranty Package, Paint Protection, Tire Protection 方案，請全部 Decline，全部忽略。不要買不要買不要買。目標是出門的時候只付出 OTD Price。
+這個步驟，Finance Manager 會開始推銷各種 Warranty Package, Paint Protection, Tire Protection 方案，請全部 Decline，全部忽略。
+
+通常是用平板開始簽名，接著會有一頁是車商的 Warranty Package，可能會寫
+Silder, Gold, Platinum 之類不同的等級。接著可能再有一頁會寫到各種
+Protection 或服務 (e.g. 4 年內無限次換機油但要 upfront $1000 之類的)。
+
+總之，不要買不要買不要買。目標是出門的時候只付出 OTD Price。
 
 
 ### 牽車
