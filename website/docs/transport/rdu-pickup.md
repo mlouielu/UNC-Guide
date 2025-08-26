@@ -1,5 +1,5 @@
-羅利達拉姆國際機場 (RDU) 機場接機/送機
-======================================
+羅利達拉姆國際機場 (RDU) 機場
+=============================
 
 * Raleigh–Durham International Airport (IATA: RDU, ICAO: KRDU)
 * Terminal 1: Alaska Airlines, Avelo Airlines, Breeze Airways, Southwest Airlines, Spirit Airlines, and Sun Country Airlines.
@@ -122,7 +122,23 @@
 
 ### 超過掛行李時限的補救方式
 
-如果不幸關櫃了，但你的行李可以通過 TSA 檢查 (i.e. 你的行李大小以及內容物是可以 carry-on 的)，且你已經有登機證，你可以直接走向 TSA 查驗，這樣你還是可以搭上飛機。
+如果不幸關櫃了，但你的行李可以通過 TSA 檢查 (i.e. 你的行李大小以及內容物是可以 carry-on 的)，且你已經有登機證，你可以直接走向 TSA 查驗，這樣你還是可以搭上飛機
+
+機場交通
+--------
+
+### 自行開車
+
+Chapel Hill 或 Durham 開車時間至機場，離峰約為 20 分鐘，尖峰可到 40-50 分鐘。
+
+### Uber/Lyft
+
+請參考 [RDU - Uber/Lyft](rideshare#rdu)。
+
+### 公車
+
+Chapel Hill 須搭乘 [GoTriangle Route 800](https://gotriangle.org/maps-schedules/GoTriangle/800)/[GoTriangle Route 805](https://gotriangle.org/maps-schedules/GoTriangle/805) 至 Regional Transit Center (RTC); Durham 須搭乘 [GoTriangle Route 700](https://gotriangle.org/maps-schedules/GoTriangle/700) 至 RTC。再由 RTC 搭乘 [GoTriangle RDU Shuttle](https://gotriangle.org/maps-schedules/GoTriangle/RDU) 至 RDU。
+
 
 機場停車
 --------
