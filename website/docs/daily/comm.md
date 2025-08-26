@@ -30,8 +30,11 @@
 
 * [Port your mobile number to a personal Google Voice account](https://support.google.com/voice/answer/1065667?hl=en)
 
+Pros:
 
-Caveat:
+1. 免月費
+
+Cons:
 
 1. Port-in 需要花 $20
 1. 有些 SMS 服務會擋 VoIP 號碼
