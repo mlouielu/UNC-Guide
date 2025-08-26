@@ -42,3 +42,5 @@ Cons:
 
 什麼是Mobile Virtual Network Operator (MVNO)
 --------------------------------------------
+
+Verizon, AT&T, T-Mobile 這些 Mobile Network Operator (MNO) 會將自己的服務租售給 MVNO，像是 USMobile, Cricket, Boost Mobile，而 MVNO 通常價格會比 MNO 便宜。
