@@ -35,6 +35,10 @@ export default {
           type: 'doc',
           id: 'daily/broadband'
         },
+		{
+		  type: 'doc',
+		  id: 'daily/mfa'
+		},
         {
           type: 'doc',
           id: 'daily/rental'
