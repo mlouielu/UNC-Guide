@@ -23,6 +23,20 @@ export default {
         }
       ]
     },
+	{
+	  type: 'category',
+	  label: '🛂 新生準備',
+	  items: [
+		{
+		  type: 'doc',
+		  id: 'getting-start/request-certificate-of-eligibility'
+		},
+		{
+		  type: 'doc',
+		  id: 'getting-start/pre-arrival'
+		},
+	  ]
+	},
     {
       type: 'category',
       label: '🏠 日常生活 (Daily Life)',
