@@ -16,6 +16,12 @@
 
 選擇哪個供應商主要取決於價格跟你經常出沒的地方，每個供應商在不同地方的覆蓋以及速度都不相同，無法一概而論。
 
+### Verizon MVNO
+
+* Spectrum Mobile: 如果你有 Spectrum Internet，通常會有一個 Offer 是 Free Unlimited Line for 12 months。到期後繳一個月費用後，這個 Offer 又會再出現讓你再免費 12 個月。同時如果有出國需求，可以換成 Unlimited Plus (+$10/mo) 提供國際 data。
+
+* USMobile: Unlimited Starter + 學生優惠是 $20/mo。[Referral Link](https://www.usmobile.com/referrals?referrer=B5B03EA9&name=Louie)。
+
 
 保留手機號碼
 ------------
