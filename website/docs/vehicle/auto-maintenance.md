@@ -1,6 +1,23 @@
 汽車保養
 ========
 
+基本上，請根據汽車製造商的汽車保養週期表 (Maintenance Schedule) 來保養。
+
+如果回車商保養，除非有問題，不然請拒絕任何加價保養。(詳見 [Mazda TSB 00-001/21](https://static.nhtsa.gov/odi/tsbs/2021/MC-10186693-0001.pdf))
+
+常見加價(騙錢)保養項目:
+
+1. Transmission Flushes
+1. Transmission Oil Additives
+1. Engine Flushes
+1. Engine Oil Additives
+1. Engine Cooling System Flushing
+1. Cleaning of Injectors
+1. Nitrogen for Tires
+1. Brake Fluid Flushes
+1. Power Steering Fluid Flushes
+
+另外，根據 [Magnuson–Moss Warranty Act](https://en.wikipedia.org/wiki/Magnuson%E2%80%93Moss_Warranty_Act)，車商並不能因為你的保養不在車商做，或是因為你不使用 OEM 產品或限制你能使用的產品，就拒絕你的保固。(Generally, tie-in sales provisions are not allowed.*1) 同時記得保存你的收據，並紀錄更換的里程。
 
 打死不在車商做的保養
 --------------------
@@ -51,3 +68,16 @@ Microfiber 可以參考Kirkland Signature Ultra Plush Microfiber Towel.
 ### 補胎
 
 Discount Tire 可以免費補胎。
+
+買了二手車要保養什麼
+--------------------
+
+買回來後，請直接更換 Engine Oil, Coolant, Brake Fluid。
+
+詳見: [Miata MX5 NB Maintenance Checklist: A Step-by-Step Guide](https://www.topmiata.com/miata-kb/miata-mx5-nb-maintenance-checklist-a-step-by-step-guide/)
+
+
+Reference
+---------
+
+1. A Businessperson's Guide to Federal Warranty Law Table of Contents: https://web.archive.org/web/20100528040418/http://www.ftc.gov/bcp/edu/pubs/business/adv/bus01.shtm#Magnuson-Moss
