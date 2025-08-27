@@ -43,3 +43,11 @@ F-1 或 J-1 身份應於在學期間以全日制學生身份註冊，最低學�
 
 取得學生證
 ----------
+
+
+
+Reference
+---------
+
+* https://isss.unc.edu/newstudent/step9/
+* https://iso.mit.edu/getting-started/post-arrival-checklist

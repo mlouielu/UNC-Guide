@@ -20,3 +20,10 @@
 
 完成入境後檢查清單
 ------------------
+
+
+Reference
+---------
+
+* https://isss.unc.edu/newstudent/step1
+* https://iso.mit.edu/getting-started/pre-arrival-checklist
