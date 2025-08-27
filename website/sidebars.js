@@ -75,7 +75,25 @@ export default {
         // }
       ]
     },
-    {
+	{
+	  type: 'category',
+	  label: '🛡️  健康、安全與法律資源 (Health, Safety & Legal Resources)',
+	  items: [
+		{
+		  type: 'doc',
+		  id: 'health-safety-legal/campus-health',
+		},
+		{
+		  type: 'doc',
+		  id: 'health-safety-legal/vawa-information'
+		},
+		{
+		  type: 'doc',
+		  id: 'health-safety-legal/legal-resources',
+		},
+	  ]
+	},
+	{
       type: 'category',
       label: '🚌 交通運輸 (Transportation)',
       items: [
