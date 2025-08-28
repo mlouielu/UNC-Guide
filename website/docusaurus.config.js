@@ -12,7 +12,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '北卡生活指南',
-  tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
 
@@ -82,12 +81,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social_card.avif',
       navbar: {
         title: 'UNC Guide',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.svg',
         },
         items: [
           {
