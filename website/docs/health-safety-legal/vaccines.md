@@ -1,7 +1,19 @@
+---
+description: 在有美國健康保險的情況下，通常在 CDC ACIP 建議下的疫苗都可以施打。UNC-CH 的 Student Blue 或 GSHIP 的 Blue Option 基本上都有涵蓋 Flu/Covid/HPV...etc。
+---
+
 疫苗
 ====
 
-在有美國健康保險的情況下，通常在 CDC ACIP 建議下的疫苗都可以施打。
+:::note
+
+J-1/J-2 訪問學者，學校的 GeoBlue 並未包含 Preventive Care，因此疫苗要自費施打: https://isss.unc.edu/international-faculty-and-researchers/j1/mandatory-medical-insurance/
+
+:::
+
+
+在有美國健康保險的情況下，通常在 CDC ACIP 建議下的疫苗都可以施打。學校的 Student Blue 或 GSHIP 的 Blue Option 基本上都有涵蓋 Flu/Covid/HPV...etc。
+
 
 CDC ACIP 建議成人疫苗
 ---------------------
