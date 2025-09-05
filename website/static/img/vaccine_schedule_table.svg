@@ -1,0 +1,169 @@
+<svg viewBox="0 0 1050 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1050" height="800" fill="#f8f9fa"/>
+
+  <!-- Title -->
+  <text x="600" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2c5aa0">
+    2025 Recommended Immunizations for Adults Aged 19 Years and Older
+  </text>
+
+  <!-- Header row -->
+  <rect x="50" y="60" width="200" height="40" fill="#2c5aa0"/>
+  <rect x="250" y="60" width="200" height="40" fill="#2c5aa0"/>
+  <rect x="450" y="60" width="200" height="40" fill="#2c5aa0"/>
+  <rect x="650" y="60" width="200" height="40" fill="#2c5aa0"/>
+  <rect x="850" y="60" width="200" height="40" fill="#2c5aa0"/>
+
+  <text x="150" y="85" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">VACCINE</text>
+  <text x="350" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">19-26</text>
+  <text x="350" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">YEARS</text>
+  <text x="550" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">27-49</text>
+  <text x="550" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">YEARS</text>
+  <text x="750" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">50-64</text>
+  <text x="750" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">YEARS</text>
+  <text x="950" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">65+</text>
+  <text x="950" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">YEARS</text>
+
+  <!-- COVID-19 Row -->
+  <rect x="50" y="100" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="100" width="600" height="30" fill="#1f4e79"/>
+  <rect x="850" y="100" width="200" height="30" fill="#1f4e79"/>
+
+  <text x="60" y="120" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">COVID-19</text>
+  <text x="550" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Aged 64 and younger: At least 1 dose of the current COVID-19 vaccine.</text>
+  <text x="950" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">65+: At least 2 doses.</text>
+
+  <!-- Influenza Row -->
+  <rect x="50" y="130" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="130" width="800" height="30" fill="#1f4e79"/>
+
+  <text x="60" y="150" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Influenza/Flu</text>
+  <text x="650" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Every Year</text>
+
+  <!-- RSV Row -->
+  <rect x="50" y="160" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="160" width="390" height="30" fill="#4a90c2" rx="10"/>
+  <rect x="650" y="160" width="300" height="30" fill="#4a90c2" rx="10"/>
+  <rect x="900" y="160" width="200" height="30" fill="#1f4e79"/>
+
+  <text x="60" y="180" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">RSV</text>
+  <text x="450" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">If pregnant during RSV season</text>
+  <text x="780" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">If aged 50 through 74 years</text>
+  <text x="980" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">If aged 75</text>
+  <text x="980" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">years or older</text>
+
+  <!-- Tdap/Td Row -->
+  <rect x="50" y="190" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="190" width="800" height="30" fill="#1f4e79"/>
+
+  <text x="60" y="210" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Tdap/Td</text>
+  <text x="650" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Tdap every pregnancy. Td/Tdap every 10 years for all adults.</text>
+
+  <!-- MMR Row -->
+  <rect x="50" y="220" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="220" width="600" height="30" fill="#4a90c2"/>
+  <rect x="850" y="220" width="200" height="30" fill="white" stroke="#ddd"/>
+
+  <text x="60" y="240" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">MMR</text>
+  <text x="550" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">If aged 68 years or younger</text>
+
+  <!-- Chickenpox Row -->
+  <rect x="50" y="250" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="250" width="380" height="30" fill="#4a90c2"/>
+  <rect x="630" y="250" width="420" height="30" fill="white" stroke="#ddd"/>
+
+  <text x="60" y="270" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Chickenpox</text>
+  <text x="450" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="white">If U.S. born and aged 45 years or younger</text>
+
+  <!-- Shingles Row -->
+  <rect x="50" y="280" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="280" width="400" height="30" fill="#4a90c2"/>
+  <rect x="650" y="280" width="600" height="30" fill="#1f4e79"/>
+
+  <text x="60" y="300" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Shingles</text>
+
+  <!-- HPV Row -->
+  <rect x="50" y="310" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="310" width="500" height="30" fill="#1f4e79"/>
+  <rect x="460" y="310" width="172" height="30" fill="white" stroke="#4a90c2" stroke-dasharray="3,3" stroke-width="5"/>
+  <rect x="632" y="310" width="400" height="30" fill="white"/>
+
+  <text x="60" y="330" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">HPV</text>
+  <text x="550" y="328" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="black">Aged 27-45 years</text>
+
+
+  <!-- Pneumococcal Row -->
+  <rect x="50" y="340" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="340" width="400" height="30" fill="#4a90c2"/>
+  <rect x="650" y="340" width="400" height="30" fill="#1f4e79"/>
+
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Pneumococcal</text>
+
+  <!-- Hepatitis A Row -->
+  <rect x="50" y="370" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="370" width="800" height="30" fill="#4a90c2"/>
+
+  <text x="60" y="390" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Hepatitis A</text>
+
+  <!-- Hepatitis B Row -->
+  <rect x="50" y="400" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="400" width="550" height="30" fill="#1f4e79"/>
+  <rect x="800" y="400" width="250" height="30" fill="#4a90c2"/>
+
+  <text x="60" y="420" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Hepatitis B</text>
+  <text x="550" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Through 59 years</text>
+
+  <!-- Meningococcal Row -->
+  <rect x="50" y="430" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="430" width="800" height="30" fill="#4a90c2"/>
+
+  <text x="60" y="450" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Meningococcal</text>
+
+  <!-- Hib Row -->
+  <rect x="50" y="460" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="460" width="800" height="30" fill="#4a90c2"/>
+
+  <text x="60" y="480" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Hib</text>
+
+  <!-- Mpox Row -->
+  <rect x="50" y="490" width="200" height="30" fill="white" stroke="#ddd"/>
+  <rect x="250" y="490" width="800" height="30" fill="#4a90c2"/>
+
+  <text x="60" y="510" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">Mpox</text>
+
+  <!-- Legend -->
+  <rect x="50" y="540" width="400" height="180" fill="white" stroke="#ddd" stroke-width="2"/>
+  <text x="60" y="560" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="black">KEY</text>
+
+  <!-- Legend items -->
+  <circle cx="70" cy="580" r="8" fill="#1f4e79"/>
+  <text x="90" y="585" font-family="Arial, sans-serif" font-size="11" fill="black">ALL adults in age group should get the vaccine.</text>
+
+  <circle cx="70" cy="605" r="8" fill="#4a90c2"/>
+  <text x="90" y="610" font-family="Arial, sans-serif" font-size="11" fill="black">SOME adults in age group should get the vaccine.</text>
+
+  <rect x="62" y="625" width="16" height="16" fill="white" stroke="#4a90c2" stroke-width="2" stroke-dasharray="3,3"/>
+  <text x="90" y="635" font-family="Arial, sans-serif" font-size="11" fill="black">Adults should talk to their health</text>
+  <text x="90" y="650" font-family="Arial, sans-serif" font-size="11" fill="black">care provider to decide if this</text>
+  <text x="90" y="665" font-family="Arial, sans-serif" font-size="11" fill="black">vaccine is right for them.</text>
+
+  <!-- Additional information -->
+  <text x="500" y="560" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="black">You need vaccines throughout your life!</text>
+  <text x="500" y="580" font-family="Arial, sans-serif" font-size="10" fill="black">Staying up to date on your vaccines is one of the best</text>
+  <text x="500" y="595" font-family="Arial, sans-serif" font-size="10" fill="black">things you can do to protect your health.</text>
+
+  <text x="500" y="620" font-family="Arial, sans-serif" font-size="10" fill="black">If you are pregnant or have a medical condition that</text>
+  <text x="500" y="635" font-family="Arial, sans-serif" font-size="10" fill="black">puts you at higher risk for infections, talk to your health</text>
+  <text x="500" y="650" font-family="Arial, sans-serif" font-size="10" fill="black">care provider about which vaccines are right for you.</text>
+
+  <!-- CDC Logo area -->
+  <rect x="50" y="730" width="120" height="50" fill="#2c5aa0"/>
+  <text x="110" y="750" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">CDC</text>
+  <text x="110" y="765" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">U.S. CENTERS FOR DISEASE</text>
+  <text x="110" y="775" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="white">CONTROL AND PREVENTION</text>
+
+  <!-- Contact Information -->
+  <text x="200" y="740" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="black">FOR MORE INFORMATION</text>
+  <text x="200" y="755" font-family="Arial, sans-serif" font-size="9" fill="black">Call toll-free: 1-800-CDC-INFO (1-800-232-4636)</text>
+  <text x="200" y="770" font-family="Arial, sans-serif" font-size="9" fill="black">Or visit: www2.cdc.gov/nip/adultimmsched/</text>
+</svg>

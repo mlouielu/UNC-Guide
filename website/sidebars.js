@@ -85,6 +85,10 @@ export default {
 		},
 		{
 		  type: 'doc',
+		  id: 'health-safety-legal/vaccines',
+		},
+		{
+		  type: 'doc',
 		  id: 'health-safety-legal/vawa-information'
 		},
 		{
