@@ -44,9 +44,30 @@ Unless specifically excluded by a member’s contract, Blue Cross NC will allow 
 Flu 流感疫苗
 ------------
 
+:::tip
+
+Flu 25-26 已經可以施打
+
+:::
+
 請參考: https://flu.unc.edu/
 
 建議每年定期施打。在學校裡面多處可以施打。
+
+COVID 疫苗
+----------
+
+:::warning
+
+目前事件仍在進展中，雖然 FDA 核可了 COVID 25-26 配方疫苗，但 [FDA 縮限了COVID疫苗施打的資格](https://www.nytimes.com/2025/09/03/health/fda-covid-vaccines-rfk-jr.html)，而[下一次 CDC ACIP 開會是在 09/18/2025](https://www.cdc.gov/acip/meetings/index.html)。目前附近應該也沒有提供 COVID 25-26 配方疫苗。 -- 09/05/2025
+
+:::
+
+請參考: https://campushealth.unc.edu/services/pharmacy/
+
+
+目前校內沒有 COVID 疫苗可以施打。可以至 CVS 或其他附近藥局預約施打。
+
 
 HPV-9 人類乳突病毒疫苗 (9價)
 ----------------------------
