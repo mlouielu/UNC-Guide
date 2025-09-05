@@ -357,10 +357,10 @@ export default {
         }
       ]
     },
-    // {
-    //   type: 'category',
-    //   label: '🏘️ 地區資訊 (Local Area)',
-    //   items: [
+    {
+      type: 'category',
+      label: '🏘️ 地區資訊 (Local Area)',
+      items: [
     //     {
     //       type: 'doc',
     //       id: 'local/chapel-hill'
@@ -373,10 +373,10 @@ export default {
     //       type: 'doc',
     //       id: 'local/raleigh'
     //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'local/restaurants'
-    //     },
+        {
+          type: 'doc',
+          id: 'local/restaurants'
+        },
     //     {
     //       type: 'doc',
     //       id: 'local/entertainment'
@@ -385,7 +385,7 @@ export default {
     //       type: 'doc',
     //       id: 'local/weather-seasons'
     //     }
-    //   ]
-    // }
+      ]
+    }
   ]
 };
