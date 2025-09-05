@@ -294,6 +294,22 @@ Protection 或服務 (e.g. 4 年內無限次換機油但要 upfront $1000 之類
 
 找個有駕照的朋友，請他幫忙開回去。
 
+租車 (Lease)
+------------
+
+
+### 不要只用月費決定要不要租車
+
+
+請先參考[買新車](#買新車)取得[報價單](#如何看報價單)跟 [OTD Price](寄信問-out-the-door-price-otd-price)。只有在知道 OTD Price (總價) 的情況下，月費才有意義。
+
+### OTD Price, Down payment, and Yearly Mileage
+
+取得 OTD Price 前後，請確認:
+
+* 頭期款
+* 最高年里程
+
 
 買二手車
 ------
