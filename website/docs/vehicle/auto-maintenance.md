@@ -58,6 +58,12 @@
 | Battery | $300-500 | $100-200 | 3 minutes (Walmart Free Labor) |
 | 雨刷 | $200 | $ 40-60 | 3 minutes |
 
+
+- Air Filter: Bosch
+- Cabin Filter: Bosch
+- Battery: AGM Battery (電池基本上都是幾家大廠做的)
+- 雨刷: Bosch
+
 ### 簡單，借器材就能嘗試的保養
 
 | Item | Dealer Asked | Part Cost | Time |
