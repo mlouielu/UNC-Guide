@@ -134,6 +134,10 @@ export default {
         {
           type: 'doc',
           id: 'vehicle/auto-maintenance'
+        },
+        {
+          type: 'doc',
+          id: 'vehicle/car-repair'
         }
       ]
     },

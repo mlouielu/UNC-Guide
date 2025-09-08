@@ -1,5 +1,5 @@
-汽車維修與保養
-==============
+汽車保養
+========
 
 基本上，請根據汽車製造商的汽車保養週期表 (Maintenance Schedule) 來保養。
 
@@ -18,36 +18,6 @@
 1. Power Steering Fluid Flushes
 
 另外，根據 [Magnuson–Moss Warranty Act](https://en.wikipedia.org/wiki/Magnuson%E2%80%93Moss_Warranty_Act)，車商並不能因為你的保養不在車商做，或是因為你不使用 OEM 產品或限制你能使用的產品，就拒絕你的保固。(Generally, tie-in sales provisions are not allowed.*1) 同時記得保存你的收據，並紀錄更換的里程。
-
-
-汽車維修
---------
-
-在美國建議嘗試學習自己修車，因為給車商或是個人車廠修車真的很貴。
-
-### 認識汽車維修報價組成
-
-美國的汽車維修報價單通常由兩個部份組成: 工資以及部件費用。這兩個都是車商或是車廠可以灌水收錢的地方。
-
-- 工資: 目前約為每小時 $75-150 之間。
-- 部件費用: 視情況而定，但這部份可以灌水。
-
-假設以更換火星塞為例：
-
-- 工資: 每小時 $100，更換四隻火星塞工時 1.5 小時，工資總價 $150
-- 部件費用: 火星塞一隻 $80，四隻火星塞總價 $320
-
-則維修總價為 $150 + $320 = $470。
-
-
-:::tip
-
-部件價格灌水如下，普通人買汽車零件最便宜的網站是在 [Rockauto.com](https://www.rockauto.com/)。
-
-一個 [NGK Ruthenium HX High Ignitability](https://www.rockauto.com/en/moreinfo.php?pk=9779940&cc=3445696&pt=7212&jsn=491&optionchoice=0-0-0-1) 在 Rockauto.com 上面賣 $10.54，[NGK Laser Iridium](https://www.rockauto.com/en/moreinfo.php?pk=5922090&cc=3445696&pt=7212&jsn=488&optionchoice=0-0-0-1) 賣 $12.83。但是在報價上可能可以給你一隻 $50 到 $100 都有可能。
-
-:::
-
 
 ### 打死不在車商做的保養
 
