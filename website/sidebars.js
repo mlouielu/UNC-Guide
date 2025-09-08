@@ -30,6 +30,10 @@ export default {
 	{
 	  type: 'category',
 	  label: '🛂 新生準備',
+      link: {
+        type: 'generated-index',
+        slug: '/category/incoming-student',
+      },
 	  items: [
 		{
 		  type: 'doc',
