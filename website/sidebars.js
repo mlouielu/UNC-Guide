@@ -8,6 +8,10 @@ export default {
     {
       type: 'category',
       label: '🪪 Onyen 帳號',
+      link: {
+        type: 'generated-index',
+        slug: '/category/unc-onyen',
+      },
       items: [
         {
           type: 'doc',
