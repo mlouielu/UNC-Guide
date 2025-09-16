@@ -4,10 +4,10 @@ description: "買車前，先確認下面這三件事情: 我的預算有多少,
 image: https://github.com/mlouielu/UNC-Guide/blob/main/website/static/img/do_not_pay_more_than_otd_price_share.png?raw=true
 ---
 
-買車
-====
+買新車
+======
 
-買車前，先確認下面這三件事情:
+買新車前，先確認下面這三件事情:
 
 1. 我的預算有多少
 1. 我想要什麼車型 (轎車? Hatchback? SUV? Pickup?)
@@ -33,6 +33,9 @@ Insurance Institute for Highway Safety (IIHS) 是美國非營利組織，他們�
 
 安全的車子可以讓你在車禍中安然無恙的的走出來。
 
+
+
+
 買新車
 -----
 
@@ -47,6 +50,8 @@ Insurance Institute for Highway Safety (IIHS) 是美國非營利組織，他們�
 以下假設已經考慮好要買那一個車款
 
 :::
+
+### 新車價格目標是 OTD Price \<= MSRP
 
 買新車的目標價格是 [OTD Price](#什麼是-otd-price) \<\= MSRP。
 
@@ -354,6 +359,14 @@ Salvage Title. 難脫手。
 1. 在 Title 背面公證簽名
 1. 拔掉 License 寄回 DMV
 
+
+
+如何試駕
+--------
+
+### 買新車
+
+可以直接到現場試車。如果在沒有拿到報價的情況下到現場試車，記得不要現場買車。
 
 
 Reference
