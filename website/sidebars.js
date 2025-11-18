@@ -101,6 +101,10 @@ export default {
 		},
 		{
 		  type: 'doc',
+		  id: 'health-safety-legal/carry-docs',
+		},
+		{
+		  type: 'doc',
 		  id: 'health-safety-legal/legal-resources',
 		},
 	  ]
