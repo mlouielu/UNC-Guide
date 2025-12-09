@@ -6,12 +6,24 @@
 * **Terminal 2**: Aeroméxico Connect, Air Canada, Air France, American Airlines, BermudAir, Copa Airlines, Delta Air Lines, Frontier Airlines, Icelandair, JetBlue, Lufthansa, WestJet, and United.
 
 
-接機
-----
+:::danger[個人資料保護注意事項]
 
-### 接機事前準備
+請務必 **不要** 將機票上的定位代號 (Confirmation Number) 截圖/打字的形式傳送給任何人。
 
-#### 1. 取得整段機票的班機代碼
+任何人只要持有你的定位代號以及姓氏，即可以**取消你的機票**。
+
+:::
+
+
+
+事前準備
+--------
+
+### 0. 確認航班日期！！！
+
+請確認航班出發以及抵達的日期。
+
+### 1. 取得整段機票的班機代碼
 
 例如，如果機票是 TPE-SEA-RDU，應該要取得:
 
@@ -27,12 +39,16 @@
 * SEA-RDU: **DL489** (這樣會無法即時得知是否前段有延遲)
 
 
-#### 2. 下載 Flightradar24 跟 Flightaware
+### 2. 下載 Flightradar24 跟 Flightaware
 
 透過這兩個網站/App, 追蹤班機即時狀況
 
 * [Flightradar24](https://www.flightradar24.com/)
 * [Flightaware](https://www.flightaware.com/)
+
+
+接機
+----
 
 
 ### 接機出發前
