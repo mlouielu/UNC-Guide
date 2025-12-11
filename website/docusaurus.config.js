@@ -76,6 +76,9 @@ const config = {
 		gtag: {
 		  trackingID: 'G-D40BGMZK9Q',
 		  anonymizeIP: true,
+		},
+		googleTagManager: {
+		  containerId: 'GTM-NNLJRMV5'
 		}
       }),
     ],
