@@ -21,10 +21,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://mlouielu.github.io',
+  url: 'https://uncguide.louie.lu',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/UNC-Guide/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
