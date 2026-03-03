@@ -253,14 +253,14 @@ export default {
         }
       ]
     },
-    // {
-    //   type: 'category',
-    //   label: '🌍 國際學生專區 (International Students)',
-    //   items: [
-    //     {
-    //       type: 'doc',
-    //       id: 'international/visa-info'
-    //     },
+    {
+      type: 'category',
+      label: '🌍 國際學生專區 (International Students)',
+      items: [
+        {
+          type: 'doc',
+          id: 'international/intl-travel'
+        },
     //     {
     //       type: 'doc',
     //       id: 'international/ssn-application'
@@ -281,8 +281,8 @@ export default {
     //       type: 'doc',
     //       id: 'international/tax-guide'
     //     }
-    //   ]
-    // },
+      ]
+    },
     {
       type: 'category',
       label: '💻 科技資源 (Technology)',
