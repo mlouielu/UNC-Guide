@@ -316,8 +316,83 @@ Protection 或服務 (e.g. 4 年內無限次換機油但要 upfront $1000 之類
 * 最高年里程
 
 
-買二手車
-------
+買賣二手車
+----------
+
+### 二手車交易流程圖
+
+北卡州內二手車的交易流程簡略如下:
+
+```mermaid
+graph TD
+    %% 定義特殊樣式
+    classDef status fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef bank fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
+    classDef alert fill:#ffe0b2,stroke:#fb8c00,stroke-width:2px;
+    classDef danger fill:#ffcdd2,stroke:#c62828,stroke-width:2px,color:#b71c1c;
+    %% 共同前期準備
+    Start([開始交易]) --> Step1["尋找賣家並確認車輛產權證明 (Vehicle Title)"]
+    Step1 --> |沒有 Clean Title?| run1[快逃啊]:::danger
+
+    Step1 --> Step2["Pre-purchase Inspection (PPI)"]
+    Step2 --> |賣家不讓你做 PPI?| run2[快逃啊]:::danger
+
+    %% 決定公證與交易模式
+    Step2 --> Choice{選擇交易與公證模式}
+
+    %% 模式 A：非同步 (各自處理)
+    Choice -- 模式 A: 非同步 --> S1["賣家自行公證"]
+    S1 --> S_Box
+
+    %% 模式 B：同步面交
+    Choice -- 模式 B: 銀行面交 (推薦) --> BankSpot[["🏦 雙方約在任一地方銀行\n(須預先預約公證服務)"]]:::bank
+    BankSpot --> S_Box
+
+    %% 賣家填寫細節
+    subgraph S_Box ["賣家公證填寫規範 (必須在公證人面前簽署)"]
+        S_Sign["✍️ 賣家在公證人面前填寫"] --> S_Action1[1. 填入買家姓名 Name of Buyer]
+        S_Action1 --> S_Action2[2. 賣家親筆簽名 Seller Signature]
+        S_Action2 --> S_Action3[3. 賣家正楷印刷體姓名 Seller Hand Printed Name]
+        S_Action3 --> S_Done["📜 公證人蓋章核可 (Notarized)"]
+    end
+
+    %% 金流與交付
+    S_Done --> T_Status1["📍 Title 狀態：<br>賣家已完成公證填寫"]:::status
+
+    %% 修正處：加上雙引號避免括號解析錯誤
+    T_Status1 --> Money["金流結清 (現金/電匯...etc)"]
+
+    Money --> S2[賣家正式交付 Title 予買家]
+
+    %% 關鍵分水嶺
+    S2 --> Milestone["📍 關鍵轉換點：<br>1. Title 移交買家手上<br>2. 賣家現場拆下舊車牌"]:::status
+
+    %% 買家後期流程 (DMV 部分)
+    Milestone --> B2[買家為車輛取得汽車保險]
+    B2 --> B_Box
+
+    subgraph B_Box ["買家於 NCDMV License Plate Agency 現場"]
+        B_DMV[["🏛️ 買家攜帶公證後的 Title 至 NCDMV License Plate Agency"]]:::alert --> B_Action1[1. 買家親筆簽名 Buyer Signature]
+        B_Action1 --> B_Action2[2. 買家正楷印刷體姓名 Buyer Hand Printed Name]
+        B_Action2 --> B_Action3["3. 📜 DMV 專員公證蓋章核可 (Notarized)"]
+    end
+
+    B_Action3 --> B_Final[3. 現場繳交稅金與規費，正式辦理 Title Transfer]
+    B_Final --> B4[取得新車牌與新 Title]
+    B4 --> B_Status["📍 買家最終狀態：<br>正式成為合法車主"]:::status
+
+    %% 賣家後期流程
+    Milestone --> S3[賣家保管舊車牌並繳回 DMV 取得收據]
+    S3 --> S4[賣家持收據取得財產稅退款]
+    S4 --> S5[賣家停止車輛保險]
+    S5 --> S_Status["📍 賣家最終狀態：<br>責任完全切離、取得退稅"]:::status
+
+    %% 結尾
+    B_Status --> End([交易完成])
+    S_Status --> End
+
+```
+
 
 ### 車輛產權證明類型 (Type of Vehicle Titles)
 
@@ -350,15 +425,6 @@ Salvage Title. 難脫手。
 
 * 到現場看車
 * 網路送到家
-
-
-### 交易流程
-
-賣家最低需要低需要:
-
-1. 在 Title 背面公證簽名
-1. 拔掉 License 寄回 DMV
-
 
 
 如何試駕
