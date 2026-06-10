@@ -41,6 +41,9 @@ const config = {
     defaultLocale: 'zh-TW',
     locales: ['en', 'zh-TW'],
   },
+  markdown: {
+	mermaid: true,
+  },
   themes: [
     [
       "@easyops-cn/docusaurus-search-local",
@@ -53,6 +56,7 @@ const config = {
         explicitSearchResultPath: true,
       }),
     ],
+	"@docusaurus/theme-mermaid",
   ],
   presets: [
     [
