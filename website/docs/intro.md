@@ -11,3 +11,5 @@ slug: /
 🧑‍🎓　錄取 UNC? 恭喜你！請參考 [Onyen 帳號](category/unc-onyen) 設定你的 Onyen 帳號，以及參考 [新生準備](category/incoming-student) 完成各項申請。
 
 🚗 想買車? 請參考 [買車指南](vehicle/car-purchase)。
+
+🪪 想要取得 REAL ID/Driver License/State ID? 請參考 [駕照](vehicle/driver-license)。
