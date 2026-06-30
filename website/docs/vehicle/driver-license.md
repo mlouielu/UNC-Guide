@@ -1,3 +1,5 @@
+import BusGame from '@site/src/components/BusGame';
+
 駕駛執照/State ID
 =================
 
@@ -28,27 +30,78 @@ A2: 不用。
 1. 可能會增加 insurance premium.
 
 
-### Q2: 我一定要先拿到 Lerner Permit 才能再考 Driver License
-
-A2: 不用。
-
-如果 NCDMV 現場的考官跟你說你要先拿 Lerner Permit 才能再考 Driver License，請堅定的跟他說我今天就是要考 Driver License，謝謝你的關心。
-
-### Q3: 我一定要有 Social Security Number (SSN) 才能辦理駕照
+### Q3: 我一定要先拿到 Lerner Permit 才能再考 Driver License
 
 A3: 不用。
 
+如果 NCDMV 現場的考官跟你說你要先拿 Lerner Permit 才能再考 Driver License，請堅定的跟他說我今天就是要考 Driver License，謝謝你的關心。
+
+### Q4: 我一定要有 Social Security Number (SSN) 才能辦理駕照
+
+A4: 不用。
+
 I-20 with I-94, DS2019 with I-94, I-94 都可以當作 Proof of Legal Presence Requirements.
 
-### Q4: 我不會開車或是在北卡沒有打算開車，我就不辦駕照了
+### Q5: 我不會開車或是在北卡沒有打算開車，我就不辦駕照了
 
-A4: 50/50。
+A5: 50/50。
 
 至少辦一個 State ID/REAL ID，這樣買酒，去酒吧，搭美國國內線班機就不用帶護照證明年紀跟身份。
 
 
-如何取得駕照
-------------
+如何考取照駕照
+--------------
+
+請詳細閱讀並且參考 [North Carolina Driver Handbook](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/driver-handbook.pdf)
+
+
+:::danger
+
+遇到 Stop Sign 🛑 要 **完全停止車輛**後再開。
+
+完。全。停。止。車。輛。後。再。開。
+
+意思是**車輛速度降低至 0 mph 後，觀察路況確認順序再開**
+
+:::
+
+
+:::danger
+
+永遠要記得留意黃色校車周圍以及黃色校車的停止標誌。
+
+黃色校車是路上的神，不當穿越停止校車 (Passing a stopped school bus) 的後果與侵略性駕駛 (Aggressive driving) 同等嚴重，計點 5 點。逆向駕駛都只有計點 4 點。
+
+當黃色校車停止時，**大部分時候雙向/全部車輛都要停止，不得超越黃色校車**。除非是有中央分隔島或是四線以上帶有中央左轉道的時候，只有同向車需要停止。
+
+
+![bus-stop-viz](../../static/assets/bus-stop-viz.png)
+
+:::
+
+### 重要小測驗
+
+
+#### 校車停車測驗
+
+<BusGame />
+
+
+### 駕照考試範圍
+
+考試一共有四關:
+
+
+| 考試名稱 | 內容 | 相關連結 |
+| -------- | ---- | -------- |
+| 筆試 (Written knowledge) | - 涵蓋交通法規與安全駕駛內容<br />- 可選擇多種語言考試<br />- 根據要求可以口試  | - [範例考試問題](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Pages/test.aspx)<br />- [North Carolina Driver Handbook](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/driver-handbook.pdf) |
+| 交通號誌 (Traffic signs) | - 涵蓋管制標誌與警告標誌<br /> - 考試時，受試者須根據標誌顏色與形狀提供相對應的解釋 | - [管制標誌](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/regulatory-signs.pdf)<br />- [警告標誌](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/warning-signs.pdf) |
+| 視力測驗 (Vision) | - 受試者須符合北卡駕駛視力標準<br />- 駕照會標記是否要求需要使用視力矯正鏡片<br />- 如有需要，駕駛時須全程使用視力矯正鏡片<br />- 未使用視力矯正鏡片視同無照駕駛 | |
+| 路考 (Driving skills) | - 測試駕駛是否具備正常普通駕駛的能力與需求，測驗包括:<br />  - 接近十字路口, 停等標誌 (Stop sign), 以及交通號誌<br />  - 緊急煞車<br />  - 倒車<br />  - 路邊停車<br />  - 使用方向燈與喇叭<br />  - 轉彎<br />  - 使用不同車道<br />  - 正確跟車<br />  - 超車與被超車<br />  - 正確的禮讓 (Yielding right of way) 行人與其他車輛<br />  - 三點迴轉 (Three-point turnabouts)  | |
+
+
+駕照考取流程圖
+--------------
 
 請參考下面的流程圖：
 
