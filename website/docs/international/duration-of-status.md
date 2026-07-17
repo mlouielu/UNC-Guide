@@ -13,8 +13,7 @@ D/S (Duration of Status) 規則變更
 
 ## 目前狀況
 
-* 2026/07/16: DHS 於 Federal Register 發布 [Public Inspection Version](https://www.federalregister.gov/public-inspection/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant)[^1]
-* 2026/07/17: 正式版本預計於 2026/07/17 發布
+* 2026/07/17: 正式版本於 2026/07/17 發布 [91 FR 44976](https://www.federalregister.gov/d/2026-14439)[^1]
 * 2026/09/15: 按照預期時間公告後，規則生效日[^2]
 * 過渡期規範: 於生效日前以 Duration of Status 獲准入境的 F/J 簽證持有人，有額外的過渡期規範
 
@@ -125,5 +124,5 @@ Authorization, along with proposed length of stay as evidenced by the Form I-20,
 
 在進行任何與移民簽證相關之決策（特別是涉及出入境或申請文件提交）前，請務必諮詢相關機構之國際學生顧問（DSO）、移民律師或參考美國國土安全部（DHS）及美國公民及移民服務局（USCIS）之官方公告。
 
-[^1]: Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media. https://public-inspection.federalregister.gov/2026-14439.pdf
+[^1]: Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media. https://www.federalregister.gov/d/2026-14439
 [^2]: See Jul 17 -> 60 Days After Publication. https://www.federalregister.gov/reader-aids/using-federalregister-gov/table-of-effective-dates-time-periods
