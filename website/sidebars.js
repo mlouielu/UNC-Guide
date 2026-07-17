@@ -261,6 +261,10 @@ export default {
           type: 'doc',
           id: 'international/intl-travel'
         },
+		{
+		  type: 'doc',
+		  id: 'international/duration-of-status'
+		},
     //     {
     //       type: 'doc',
     //       id: 'international/ssn-application'
