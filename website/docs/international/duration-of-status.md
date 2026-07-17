@@ -1,5 +1,5 @@
-Duration of Status
-==================
+D/S (Duration of Status) 規則變更
+=================================
 
 :::warning
 
