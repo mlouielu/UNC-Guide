@@ -9,22 +9,22 @@
 
 美國的汽車維修報價單通常由兩個部份組成: 工資以及部件費用。這兩個都是車商或是車廠可以灌水收錢的地方。
 
-- 工資: 目前約為每小時 $75-150 之間。
+- 工資: 目前約為每小時 \$75-150 之間。
 - 部件費用: 視情況而定，但這部份可以灌水。
 
 假設以更換火星塞為例：
 
-- 工資: 每小時 $100，更換四隻火星塞工時 1.5 小時，工資總價 $150
-- 部件費用: 火星塞一隻 $80，四隻火星塞總價 $320
+- 工資: 每小時 \$100，更換四隻火星塞工時 1.5 小時，工資總價 \$150
+- 部件費用: 火星塞一隻 \$80，四隻火星塞總價 \$320
 
-則維修總價為 $150 + $320 = $470。
+則維修總價為 \$150 + \$320 = \$470。
 
 
 :::tip
 
 部件價格灌水如下，普通人買汽車零件最便宜的網站是在 [Rockauto.com](https://www.rockauto.com/)。
 
-一個 [NGK Ruthenium HX High Ignitability](https://www.rockauto.com/en/moreinfo.php?pk=9779940&cc=3445696&pt=7212&jsn=491&optionchoice=0-0-0-1) 在 Rockauto.com 上面賣 $10.54，[NGK Laser Iridium](https://www.rockauto.com/en/moreinfo.php?pk=5922090&cc=3445696&pt=7212&jsn=488&optionchoice=0-0-0-1) 賣 $12.83。但是在報價上可能可以給你一隻 $50 到 $100 都有可能。(而且可能不是 NGK 火星塞)
+一個 [NGK Ruthenium HX High Ignitability](https://www.rockauto.com/en/moreinfo.php?pk=9779940&cc=3445696&pt=7212&jsn=491&optionchoice=0-0-0-1) 在 Rockauto.com 上面賣 \$10.54，[NGK Laser Iridium](https://www.rockauto.com/en/moreinfo.php?pk=5922090&cc=3445696&pt=7212&jsn=488&optionchoice=0-0-0-1) 賣 \$12.83。但是在報價上可能可以給你一隻 \$50 到 \$100 都有可能。(而且可能不是 NGK 火星塞)
 
 :::
 
