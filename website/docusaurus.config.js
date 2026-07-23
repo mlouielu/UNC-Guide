@@ -48,6 +48,15 @@ const config = {
 	  onBrokenMarkdownLinks: 'warn',
 	},
   },
+  plugins: [
+    [
+      '@mlouielu/docusaurus-plugin-recent-updates',
+      {
+        docsDir: 'docs',
+        maxItems: 50,
+      },
+    ],
+  ],
   themes: [
     [
       "@easyops-cn/docusaurus-search-local",

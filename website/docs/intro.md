@@ -13,3 +13,5 @@ slug: /
 🚗 想買車? 請參考 [買車指南](vehicle/car-purchase)。
 
 🪪 想要取得 REAL ID/Driver License/State ID? 請參考 [駕照](vehicle/driver-license)。
+
+<RecentUpdates title="最近更新" count={10} showParent />
