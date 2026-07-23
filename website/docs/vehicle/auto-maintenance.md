@@ -23,10 +23,10 @@
 
 | Item | Dealer Asked | Part Cost | Time |
 | ---- | ------------ | --------- | ---- |
-| Air Filter Replacement | $80-100 | $10 | 1 minute |
-| Cabin Filter Replacement | $80-100 | $15-20 | 30 seconds |
-| Battery | $300-500 | $100-200 | 3 minutes (Walmart Free Labor) |
-| 雨刷 | $200 | $ 40-60 | 3 minutes |
+| Air Filter Replacement | \$80-100 | \$10 | 1 minute |
+| Cabin Filter Replacement | \$80-100 | \$15-20 | 30 seconds |
+| Battery | \$300-500 | \$100-200 | 3 minutes (Walmart Free Labor) |
+| 雨刷 | \$200 | \$40-60 | 3 minutes |
 
 
 - Air Filter: Bosch
@@ -38,7 +38,7 @@
 
 | Item | Dealer Asked | Part Cost | Time |
 | ---- | ------------ | --------- | ---- |
-| 火星塞 * 4 | $470 | $43.32 | 30-60 minutes |
+| 火星塞 * 4 | \$470 | \$43.32 | 30-60 minutes |
 
 
 汽車美容
@@ -74,8 +74,8 @@ Microfiber 可以參考Kirkland Signature Ultra Plush Microfiber Towel.
 可以疊現金回饋，最大可以到約55折-6折:
 
 * 信用卡回饋 (Merchant Offer): 10% (cash back)
-* Capital One Shopping: 30% up to $250 (gift card)
-* 輪胎商 Rebate: $70-110 (Visa Gift Card)
+* Capital One Shopping: 30% up to \$250 (gift card)
+* 輪胎商 Rebate: \$70-110 (Visa Gift Card)
 * Tire Agent Coupon: 5%
 
 ### 補胎
