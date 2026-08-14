@@ -93,6 +93,10 @@ export default {
 		},
 		{
 		  type: 'doc',
+		  id: 'health-safety-legal/student-health-insurance',
+		},
+		{
+		  type: 'doc',
 		  id: 'health-safety-legal/vaccines',
 		},
 		{
