@@ -2,7 +2,11 @@
 // Fixed by Claude to adapted with Docusaurus.
 
 //components/mdx/YouTube.tsx
-export default function YouTube ({ id } : { id : string }){
+export default function YouTube ({ id, ID } : { id? : string, ID? : string }){
+  const videoId = id ?? ID;
+  if (!videoId) {
+    throw new Error('<YouTube /> requires an "id" prop');
+  }
   return (
     <div>
      <iframe
@@ -11,7 +15,7 @@ export default function YouTube ({ id } : { id : string }){
           width: '90%'
       }}
       className=""
-      src={"https://www.youtube.com/embed/" + id}
+      src={"https://www.youtube.com/embed/" + videoId}
       title="YouTube Video Player"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       ></iframe>
