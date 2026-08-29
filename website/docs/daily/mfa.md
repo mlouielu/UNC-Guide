@@ -15,14 +15,20 @@
 
 通常會買兩把硬體安全鑰匙，一把日常使用，一把備援。
 
-* [Yubico Yubikey](https://www.yubico.com/education-offer/)
+* [Yubico Yubikey](https://www.yubico.com/)
+  * [DuckDuckGo YubiKey Bundle](https://www.yubico.com/yubico-and-duckduckgo/)
+  * [OpenAI YubiKey Bundle](https://chatgpt.com/#settings/Security/passkeys)
 
 Authentication App
 ------------------
 
-不要把 Cloud Sync 功能打開。
+盡量不要把 Cloud Sync 功能打開。
 
 學校會用到 Duo Mobile 跟 Microsoft Authenticator.
+
+* [Duo Mobile](https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app#download-duo-mobile)
+* [Microsoft Authenticator](https://support.microsoft.com/en-us/authenticator/download-microsoft-authenticator)
+* Google Authenticator
 
 Google
 ------
