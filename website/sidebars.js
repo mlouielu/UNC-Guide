@@ -47,6 +47,10 @@ export default {
 		  type: 'doc',
 		  id: 'getting-start/post-arrival'
 		},
+		{
+		  type: 'doc',
+		  id: 'getting-start/essential-safety'
+		},
 	  ]
 	},
     {
