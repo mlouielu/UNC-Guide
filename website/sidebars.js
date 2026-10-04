@@ -53,6 +53,11 @@ export default {
 		},
 	  ]
 	},
+	{
+	  type: 'doc',
+	  label: '⚠️ 校園事件應變：緊急安全與法律自保流程',
+	  id: 'emergency-saftey-on-campus',
+	},
     {
       type: 'category',
       label: '🏠 日常生活 (Daily Life)',
