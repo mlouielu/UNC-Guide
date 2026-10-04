@@ -1,5 +1,5 @@
 ---
-title: ⚠️ 美國校園事件應變：緊急安全與究責流程
+title: 美國校園事件應變：緊急安全與究責流程
 image: https://raw.githubusercontent.com/mlouielu/UNC-Guide/refs/heads/main/website/static/img/campus-incident-response-card.png
 description: 在 UNC 教堂山校園遇到歧視、騷擾或攻擊時該怎麼辦：存證、就醫、同時通報校警與市警局、申請公開紀錄，並透過媒體與民意代表讓校方無法忽視。台灣學生的親身經驗整理。
 toc_max_heading_level: 5
