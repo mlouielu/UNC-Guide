@@ -148,7 +148,7 @@ UNC 適用北卡公開紀錄法 (North Carolina Public Records Act)。任何人�
 * WRAL (NBC)
 * WUNC
 
-建議優先聯絡校內學生報紙，請不要忽略或小看他們。學生報紙的獨立性跟理想性讓他們會願意訪談與撰寫你的事件報導。
+建議優先聯絡校內學生報紙，請不要忽略或小看他們。學生報紙的獨立性跟理想性讓他們會願意訪談與撰寫你的事件報導。我們的案件與 Cornell 7 Rapist 的案件，都是從學生報的報導開始受到關注的。
 
 ### 2. 寫信給選區民意代表
 
@@ -216,3 +216,10 @@ UNC 適用北卡公開紀錄法 (North Carolina Public Records Act)。任何人�
 ### 另一個例子：Cornell 7
 
 Cornell 的涉嫌強暴案同樣是由學生報 [The Cornell Daily Sun 的報導](https://www.cornellsun.com/article/2026/09/tccsuykuvb4z)重新浮上檯面，引起全國關注，最後促使[紐約當地檢察官重啟案件調查](https://abcnews.com/US/district-attorney-reopens-case-alleged-cornell-university-gang/story?id=136806149)。
+
+
+## 尋求法律協助
+
+可以從學生法律服務開始: [Carolina Student Legal Services](https://www.uncstudentlegal.unc.edu/eligibility-and-representation) 雖然由學生費用支應，但不能就學生與 UNC 之間的法律問題提供諮詢或代理；如果對方也是符合資格的學生，原則上也無法協助。
+
+基於學生法律服務不告學校與同校學生的原因，建議如果當地有多所大學，辦活動的時候可以交互派出至少一位同學參與，真的出事的時候可以啟動對方的學生法律服務。或是有畢業校友在附近工作，也可以邀請參加，通常公司都會有給員工的法律諮詢服務。
