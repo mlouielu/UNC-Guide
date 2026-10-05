@@ -1,3 +1,15 @@
+---
+description: "教堂山租屋重點：提前 2–3 個月開始找房、確認光纖網路、看懂租約與轉租條款、押金與水電預算，Chapel Hill、Carrboro、Durham 等常見區域，以及申請所需文件。"
+keywords:
+  - 教堂山 租屋
+  - Chapel Hill 租房
+  - Carrboro
+  - 租約
+  - sublet
+  - 押金
+  - 留學生 租屋
+---
+
 租屋指南
 ========
 

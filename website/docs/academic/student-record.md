@@ -1,3 +1,14 @@
+---
+description: "UNC 在學證明、成績查詢與成績單申請整理：如何申請 Enrollment Certification、確認在學狀況、查看成績等第，以及訂購 Official／Unofficial Transcript。"
+keywords:
+  - UNC 在學證明
+  - 成績單
+  - Transcript
+  - Enrollment Certification
+  - 成績查詢
+  - UNC Registrar
+---
+
 學生證明
 ========
 

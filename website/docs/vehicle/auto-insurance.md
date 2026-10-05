@@ -1,3 +1,16 @@
+---
+description: "美國汽車保險指南：保額至少 100/300/100、每六個月重新 Quote、Liability／Collision／Comprehensive 等保險類型解析、如何比價，以及雨傘保險 (Umbrella Insurance)。"
+keywords:
+  - 美國 汽車保險
+  - 北卡 車險
+  - auto insurance
+  - 100/300/100
+  - Liability
+  - Collision
+  - Comprehensive
+  - Umbrella Insurance
+---
+
 汽車保險
 ========
 

@@ -1,3 +1,18 @@
+---
+description: "北卡駕照與 State ID 申請指南：台灣駕照無法直接換照、不需要保險、SSN 或 Learner Permit 也能考駕照、DL-123A 與 Fleet Restriction 說明、考試範圍與考照流程圖。"
+keywords:
+  - 北卡 駕照
+  - NC DMV
+  - NCDMV
+  - Driver License
+  - State ID
+  - REAL ID
+  - DL-123A
+  - Fleet Restriction
+  - 台灣駕照
+  - 國際學生 考駕照
+---
+
 import BusGame from '@site/src/components/BusGame';
 
 駕駛執照/State ID

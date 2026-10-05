@@ -1,3 +1,17 @@
+---
+description: "F-1／J-1 D/S (Duration of Status) 規則變更整理：2026/09/15 生效後改為固定停留期限、grace period 縮短為 30 天、過渡期規範，以及 I-539 延期停留 (EOS) 申請須知。"
+keywords:
+  - Duration of Status
+  - D/S
+  - F-1
+  - J-1
+  - I-539
+  - Extension of Stay
+  - Admit Until Date
+  - grace period
+  - 國際學生
+---
+
 D/S (Duration of Status) 規則變更
 =================================
 

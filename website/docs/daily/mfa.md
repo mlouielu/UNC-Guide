@@ -1,3 +1,16 @@
+---
+description: "多重要素驗證 (MFA) 設定指南：硬體安全鑰匙、Authentication App、Email 與 SMS 的安全性比較，UNC 會用到的 Duo Mobile 與 Microsoft Authenticator，以及 Google、Apple、Meta 帳號的雙重驗證設定。"
+keywords:
+  - 多重要素驗證
+  - 雙重驗證
+  - MFA
+  - 2FA
+  - Duo Mobile
+  - Microsoft Authenticator
+  - YubiKey
+  - 帳號安全
+---
+
 多重要素驗證 (MFA)
 ==================
 

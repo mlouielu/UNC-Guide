@@ -1,3 +1,16 @@
+---
+description: "教堂山停電、停網、淹水與颶風應變：Duke Energy 與 Piedmont Electric 停電地圖與通報、OWASA 煮沸水公告、租屋前查淹水區地圖，以及事前準備清單與停電後的食品安全。"
+keywords:
+  - 教堂山 停電
+  - Chapel Hill power outage
+  - Duke Energy
+  - Piedmont Electric
+  - OWASA
+  - 淹水
+  - 颶風
+  - 防災準備
+---
+
 天災停電與相關
 ==============
 

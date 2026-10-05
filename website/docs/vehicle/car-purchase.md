@@ -2,6 +2,17 @@
 title: 買車指南
 description: "買車前，先確認下面這三件事情: 我的預算有多少, 我想要什麼車型, 我想要什麼車款。先到 IIHS.org 查看安全評價。不要到現場議價，除非你已經拿到報價單。預期 OTD price 應該要小於等於 MSRP。"
 image: https://raw.githubusercontent.com/mlouielu/UNC-Guide/refs/heads/main/website/static/img/do_not_pay_more_than_otd_price_share.png
+keywords:
+  - 美國 買車
+  - 買新車
+  - OTD Price
+  - Out the Door Price
+  - MSRP
+  - Window Sticker
+  - 二手車
+  - Lease
+  - IIHS
+  - 北卡 買車
 ---
 
 買新車

@@ -1,3 +1,14 @@
+---
+description: "留學生在美國開銀行帳戶：Bank of America 開戶的優缺點、不需 SSN 申請第一張信用卡、手續費注意事項，以及為什麼要關掉 Overdraft Protection。"
+keywords:
+  - 美國銀行開戶
+  - 留學生 開戶
+  - Bank of America
+  - BoA
+  - Overdraft Protection
+  - 無 SSN 信用卡
+---
+
 銀行帳戶
 ========
 

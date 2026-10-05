@@ -1,3 +1,15 @@
+---
+description: "UNC Campus Health 學校健康中心看診方式：電話或線上預約、GSHIP 保險在校看病免費但藥品需 co-pay，以及諮商與心理服務 CAPS。"
+keywords:
+  - UNC Campus Health
+  - 學校健康中心
+  - 看病
+  - GSHIP
+  - CAPS
+  - 心理諮商
+  - 預約看診
+---
+
 學校健康中心 Campus Health
 ==========================
 

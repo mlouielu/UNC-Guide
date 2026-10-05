@@ -1,3 +1,13 @@
+---
+description: "Onyen 是 UNC 所有數位服務共用的帳號（Only Name You'll Ever Need）。錄取後請先建立 Onyen 帳號，再設定學校 Email。"
+keywords:
+  - Onyen
+  - UNC Onyen
+  - 建立 Onyen
+  - UNC 帳號
+  - UNC 新生
+---
+
 建立 Onyen 帳號
 ===============
 

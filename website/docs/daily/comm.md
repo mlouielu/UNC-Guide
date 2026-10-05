@@ -1,3 +1,16 @@
+---
+description: "留學生如何辦美國手機門號：出發前就能用 eSIM 申請，Verizon MVNO（Spectrum Mobile、US Mobile）方案比較，以及離開美國後用 Google Voice 保留號碼的方法。"
+keywords:
+  - 美國手機門號
+  - 美國電話卡
+  - eSIM
+  - MVNO
+  - US Mobile
+  - Spectrum Mobile
+  - Google Voice
+  - 留學生
+---
+
 手機號碼
 ========
 
