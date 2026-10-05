@@ -1,3 +1,15 @@
+---
+description: "UNC Chapel Hill 校園安全資源整理：Alert Carolina 緊急通知、UNC Police 緊急與非緊急電話、Carolina Ready Safety App、匿名通報管道，以及歧視與騷擾的通報單位。"
+keywords:
+  - UNC 校園安全
+  - Alert Carolina
+  - UNC Police
+  - Carolina Ready
+  - 匿名通報
+  - Clery Act
+  - 教堂山
+---
+
 校園安全資源
 ============
 

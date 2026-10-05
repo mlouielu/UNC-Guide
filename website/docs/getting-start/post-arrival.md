@@ -1,3 +1,16 @@
+---
+description: "UNC 國際學生入境美國後的必要步驟：完成 ISSS Student Check-In（未完成可能導致 SEVIS 中止）、參加 ISSS 座談、滿足 F-1／J-1 全日制最低學分要求，以及領取學生證。"
+keywords:
+  - UNC 新生
+  - 入境後檢查清單
+  - ISSS Check-In
+  - SEVIS
+  - F-1
+  - J-1
+  - 全日制學分
+  - 國際學生
+---
+
 🛬 入境後檢查清單
 =================
 

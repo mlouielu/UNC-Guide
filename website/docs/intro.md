@@ -1,5 +1,6 @@
 ---
 slug: /
+description: UNC Chapel Hill（北卡羅萊納大學教堂山分校）留學生生活指南：新生行前準備、Onyen 帳號、健康保險與疫苗、銀行開戶、買車與考駕照、公車交通、校園安全與國際學生身份須知。
 ---
 
 # 北卡羅萊納大學教堂山校區指南 UNC Chapel Hill Guide

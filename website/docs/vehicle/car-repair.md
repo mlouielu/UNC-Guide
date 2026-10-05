@@ -1,3 +1,15 @@
+---
+description: "美國修車省錢指南：看懂維修報價單的工資與零件灌水、在 RockAuto、Advance Auto Parts、NAPA、AutoZone 買零件的差異，以及 Orange County 廢油與廢零件回收地點。"
+keywords:
+  - 美國 修車
+  - 汽車維修
+  - RockAuto
+  - 汽車零件
+  - 維修報價
+  - AutoZone
+  - 自己修車
+---
+
 汽車維修
 ========
 

@@ -1,3 +1,15 @@
+---
+description: "留學生挑選美國健康保險的必要檢查項目：out-of-pocket 是否有上限、眷屬是否適用同一上限，以及處方藥是定額還是按比例給付。"
+keywords:
+  - 留學生 健康保險
+  - 學生保險
+  - out-of-pocket maximum
+  - GSHIP
+  - 處方藥
+  - ISO 保險
+  - Student Medicover
+---
+
 學生健康保險
 ============
 

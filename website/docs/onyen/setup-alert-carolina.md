@@ -1,3 +1,13 @@
+---
+description: "如何註冊 Alert Carolina 校園緊急通知：透過 Onyen Services 登記或更新你的美國手機號碼，以接收 UNC 緊急事件簡訊。"
+keywords:
+  - Alert Carolina
+  - UNC 緊急通知
+  - Onyen Services
+  - 簡訊通知
+  - 校園安全
+---
+
 設定 Alert Carolina
 ===================
 

@@ -1,3 +1,15 @@
+---
+description: "美國汽車保養指南：照原廠保養週期表、拒絕車商常見的加價保養項目、可以自己換的空氣濾網、冷氣濾網、電池與雨刷，以及洗車、輪胎與二手車保養重點。"
+keywords:
+  - 美國 汽車保養
+  - Maintenance Schedule
+  - 車商 加價保養
+  - DIY 保養
+  - 換輪胎
+  - Magnuson-Moss Warranty Act
+  - 二手車保養
+---
+
 汽車保養
 ========
 

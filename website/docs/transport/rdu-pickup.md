@@ -1,3 +1,15 @@
+---
+description: "RDU 羅利達拉姆國際機場接機與送機指南：用 Flightradar24 追蹤航班、什麼時候出發、Terminal 1／2 接機地點、行李託運時限、凌晨送機，以及機場交通與停車。"
+keywords:
+  - RDU 機場
+  - RDU 接機
+  - 送機
+  - Raleigh-Durham International Airport
+  - 機場停車
+  - Flightradar24
+  - 教堂山 機場交通
+---
+
 羅利達拉姆國際機場 (RDU) 機場
 =============================
 

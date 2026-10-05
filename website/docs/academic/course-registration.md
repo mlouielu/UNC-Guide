@@ -1,3 +1,15 @@
+---
+description: "UNC Chapel Hill 選課教學：選課時程與 Enrollment Appointment、如何用 Course Catalog 與 Class Search 查課、ConnectCarolina 選課步驟，以及研究生註冊規則。"
+keywords:
+  - UNC 選課
+  - 課程註冊
+  - Course Registration
+  - ConnectCarolina
+  - Enrollment Appointment
+  - Class Search
+  - 研究生
+---
+
 課程註冊
 ========
 

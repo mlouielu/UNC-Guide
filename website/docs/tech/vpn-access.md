@@ -1,3 +1,13 @@
+---
+description: "UNC VPN 連線設定教學，以及 Linux 無法使用 Cisco Secure Client 時改用 OpenConnect 連線 UNC-CH VPN 的方法。"
+keywords:
+  - UNC VPN
+  - Cisco Secure Client
+  - OpenConnect
+  - Linux VPN
+  - UNC-CH
+---
+
 VPN 連線
 ========
 

@@ -1,3 +1,16 @@
+---
+description: "F-1／J-1 學生出國與美國國內旅行須知：如何在 UNC ISSS Portal 線上申請 I-20／DS-2019 旅行簽名 (Travel Signature)，以及 AILA 提供的國內旅行注意事項。"
+keywords:
+  - Travel Signature
+  - 旅行簽名
+  - I-20
+  - DS-2019
+  - ISSS Portal
+  - F-1 出國
+  - 國內旅行
+  - AILA
+---
+
 國際與國內旅行相關
 ===============
 

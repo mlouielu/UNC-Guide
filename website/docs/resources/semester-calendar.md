@@ -1,3 +1,16 @@
+---
+description: "UNC Chapel Hill 2024–2027 學期行事曆：秋季、春季與暑期的開學日、Fall Break、Well-Being Days、感恩節假期、期末考與畢業典禮日期，另附 Duke 與 NCSU 行事曆。"
+keywords:
+  - UNC 行事曆
+  - 學期行事曆
+  - UNC Academic Calendar
+  - 開學日
+  - Fall Break
+  - 期末考
+  - Duke
+  - NCSU
+---
+
 學期行事曆
 ==========
 
