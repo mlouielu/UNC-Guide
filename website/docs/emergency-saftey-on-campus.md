@@ -46,11 +46,30 @@ keywords:
 
 :::
 
-## 第零步：心態上調整成一定要走正式法律程序
 
-不要盲目相信與等待校方，校警，UCO，不要相信任何非正式程序。
+:::info[不在 UNC 也適用]
 
-任何校內的非正式程序 (informal process) 都只是安撫人心用的。
+這篇文章雖然是以 UNC Chapel Hill 的經驗寫成，但整體流程同樣適用於美國其他大學。文中的電話、單位名稱與網站（例如市警局電話、UCO、NextRequest），請換成你所在學校與城市的對應資訊。
+
+要注意的是，公開紀錄請求（第四步）只適用於公立大學；私立學校一般不受各州公開紀錄法規範。
+
+:::
+
+## 第零步：調整心態，一定要走正式法律程序
+
+同一個事件，可能同時有以下幾種程序在進行，三者互不排斥：
+
+| 程序 | 由誰主導 | 舉證標準 | 可能的結果 |
+| --- | --- | --- | --- |
+| 刑事程序 | 警方調查，地方檢察官 (District Attorney) 決定是否起訴 | 排除合理懷疑 (beyond a reasonable doubt)，三者中最高 | 刑事處罰 |
+| 民事訴訟 | 你與你的律師提告 | 證據優勢 (preponderance of the evidence) | 損害賠償 |
+| 校內調查 | 學校（在 UNC 是 University Compliance Office），依據 Title VI（種族、膚色、原國籍歧視）或 Title IX（性別歧視） | 可能低於證據優勢 | 校內懲處 |
+
+校內調查又分為正式調查與非正式處理 (informal resolution)，後者不會做出任何認定。
+
+不要盲目相信與等待校方、校警、UCO，也不要相信任何非正式程序。
+
+任何校內的非正式程序都只是安撫人心用的。
 
 ## 第一步: 事發當下存證
 
@@ -85,7 +104,11 @@ keywords:
 
 <ThreadsEmbed url="https://www.threads.com/@nataliesneighborhood/post/DduSuxhGh8W" />
 
-## 第四步：
+## 第四步：完成所有刑事程序後，再做校內通報
+
+每個學校會有不同的單位負責校內通報，在 UNC 是由 [University Compliance Office (UCO)](https://compliance.unc.edu/) 負責，在 Duke 則是由 [The Office for Institutional Equity (OIE)](https://oie.duke.edu/) 負責。
+
+絕對不要只有依賴校內通報來尋求解決問題，請一定要走正規法律程序。
 
 ## 第五步：用公開紀錄請求調閱校方內部文件
 
@@ -106,10 +129,15 @@ UNC 適用北卡公開紀錄法 (North Carolina Public Records Act)。任何人�
 
 :::
 
-學生紀錄、人事紀錄等依法保密的內容可能不會提供或會被遮蔽，校方也可能收取少量的重製費用。
+可以參考如何使用公開紀錄請求:
+
+* [Internal communications shed light on UNC’s delayed response to racially motivated attack on Black students](https://dailytarheel.com/482608/enterprise/enterprise-greenlaw-attack-communication-timeline/)
+* [DTH filed a public records request with UNC](https://nextrequest.unc.edu/requests/26-881)
 
 
 ## 第六步：擴大事件關注讓校方無法忽視
+
+除非是不公開審理案件，否則強烈建議擴大事件的關注度，讓校方無法忽視你遇到的問題。
 
 ### 1. 聯絡新聞媒體
 
@@ -120,6 +148,7 @@ UNC 適用北卡公開紀錄法 (North Carolina Public Records Act)。任何人�
 * WRAL (NBC)
 * WUNC
 
+建議優先聯絡校內學生報紙，請不要忽略或小看他們。學生報紙的獨立性跟理想性讓他們會願意訪談與撰寫你的事件報導。
 
 ### 2. 寫信給選區民意代表
 
