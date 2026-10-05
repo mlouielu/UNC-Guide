@@ -40,7 +40,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-TW',
-    locales: ['en', 'zh-TW'],
+    locales: ['zh-TW'],
   },
   markdown: {
 	mermaid: true,
@@ -146,10 +146,6 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
-		  {
-			type: 'localeDropdown',
-			position: 'right',
-		  },
         ],
       },
       footer: {
