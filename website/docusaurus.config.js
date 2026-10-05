@@ -14,6 +14,7 @@ import rehypeKatex from 'rehype-katex';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '北卡生活指南',
+  tagline: 'UNC Chapel Hill 北卡羅萊納大學教堂山分校留學生生活指南',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
 
@@ -126,6 +127,19 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        {
+          name: 'description',
+          content:
+            'UNC Chapel Hill（北卡羅萊納大學教堂山分校）留學生生活指南：新生行前準備、Onyen 帳號、健康保險與疫苗、銀行開戶、買車與考駕照、公車交通、校園安全與國際學生身份須知。',
+        },
+        {
+          name: 'keywords',
+          content:
+            'UNC, UNC Chapel Hill, 北卡羅萊納大學, 教堂山, 北卡, 留學, 台灣學生, 國際學生, 新生準備, Onyen, 買車, 駕照, 健康保險, Chapel Hill, North Carolina',
+        },
+        {property: 'og:site_name', content: '北卡生活指南 UNC Guide'},
+      ],
       // Replace with your project's social card
       image: 'img/social_card.avif',
       navbar: {
