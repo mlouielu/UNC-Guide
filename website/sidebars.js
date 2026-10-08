@@ -156,6 +156,10 @@ export default {
           type: 'doc',
           id: 'vehicle/auto-insurance'
         },
+		{
+		  type: 'doc',
+		  id: 'vehicle/auto-registration'
+		},
         {
           type: 'doc',
           id: 'vehicle/auto-maintenance'
